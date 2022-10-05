@@ -8,5 +8,15 @@
         "id": "2",
         "Domain": "Python CheatSheet",
         "Link": "https://www.pythoncheatsheet.org/cheatsheet/basics"
+    },
+    {
+        "id":"3",
+        "Domain":"Command Line CheatSheet",
+        "Link": "https://www.learnenough.com/command-line-tutorial"
+    },
+    {
+        "id":"4",
+        "Domain":"Software Engineering Tips and Tricks",
+        "Link":"https://www.freecodecamp.org/news/tag/blog/"
     }
 ]
