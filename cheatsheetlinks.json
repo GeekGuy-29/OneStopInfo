@@ -9,4 +9,19 @@
         "Domain": "Git CheatSheet",
         "Link": "https://www.freecodecamp.org/news/git-cheat-sheet/"
     },
+     {
+        "id": "3",
+        "Domain": "Docker CheatSheet",
+        "Link": "https://www.docker.com/wp-content/uploads/2022/03/docker-cheat-sheet.pdf"
+    },
+     {
+        "id": "4",
+        "Domain": "Kubernetes CheatSheet",
+        "Link": "https://www.interviewbit.com/kubernetes-cheat-sheet/"
+    },
+     {
+        "id": "5",
+        "Domain": "Bash cheetSheet",
+        "Link": "https://devhints.io/bash"
+    },
 ]
