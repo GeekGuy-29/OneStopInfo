@@ -4,4 +4,19 @@
         "Job Role": "Sofware Developer",
         "Job Description": "A Software Developer is generally responsible for the development, design and implementation of new or modified software products or ongoing business projects."
     },
+    {
+      "id": "2"
+      "Job Role": "Frontend Developer"
+      "Job Description": "A front-end developer creates websites and applications using web languages such as HTML, CSS, and JavaScript that allow users to access and interact with the site or app."
+    },
+    {
+        "id"="3"
+        "JOb Role" : "UI/UX designer"
+        "Job Description" : "A UI/UX designer's job is to create user-friendly interfaces that enable users to understand how to use complex technical products."
+    },
+    {
+        "id"="4"
+        "Job Role" : "Product Manager"
+        "Job Description" : "Product manager's responsibilities is to search out, gather, handle, and prioritize customer needs and wants."
+    },
 ]
