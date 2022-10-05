@@ -10,12 +10,12 @@
       "Job Description": "A front-end developer creates websites and applications using web languages such as HTML, CSS, and JavaScript that allow users to access and interact with the site or app."
     },
     {
-        "id"="3"
+        "id" : "3"
         "JOb Role" : "UI/UX designer"
         "Job Description" : "A UI/UX designer's job is to create user-friendly interfaces that enable users to understand how to use complex technical products."
     },
     {
-        "id": 4"
+        "id": "4"
         "Job Role" : "Product Manager"
         "Job Description" : "Product manager's responsibilities is to search out, gather, handle, and prioritize customer needs and wants."
     },
