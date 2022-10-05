@@ -13,5 +13,10 @@
         "id":"3",
         "Domain":"Command Line CheatSheet",
         "Link": "https://www.learnenough.com/command-line-tutorial"
+    },
+    {
+        "id":"4",
+        "Domain":"Software Engineering Tips and Tricks",
+        "Link":"https://www.freecodecamp.org/news/tag/blog/"
     }
 ]
