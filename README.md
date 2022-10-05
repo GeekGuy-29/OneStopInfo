@@ -30,11 +30,13 @@ Ya ya i know, you are very confused, buddy! i got you <3
 #### Heavy-Code files
 
      If you're a newbie and don't know anything about web-dev, i am sorry mate but these aren't for you.
-     So these files are the files required to covert this project into a working website. These files are ....(Soon to be updated)
+     So these files are the files required to covert this project into a working website. These files are `script.js` and `project.html`
 
 ## Suggestion
  
    This project, being open-source will always be open for valuable suggestions, which would enhance the overall  quality.
+   
+ ### If you like the repo or the project, don't forget to give it a star <3
 
 
 
