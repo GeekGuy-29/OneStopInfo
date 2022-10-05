@@ -4,4 +4,9 @@
         "Domain": "Linux CheatSheet",
         "Link": "https://cheatography.com/davechild/cheat-sheets/linux-command-line/"
     },
+    {
+        "id": "2",
+        "Domain": "Python CheatSheet",
+        "Link": "https://www.pythoncheatsheet.org/cheatsheet/basics"
+    }
 ]

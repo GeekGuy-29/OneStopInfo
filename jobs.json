@@ -4,4 +4,14 @@
         "Job Role": "Sofware Developer",
         "Job Description": "A Software Developer is generally responsible for the development, design and implementation of new or modified software products or ongoing business projects."
     },
+    {
+        "id": "2",
+        "Job Role": "Front-end developer",
+        "Job Description": " A front-end developer is responsible for planning, designing and developing websites. Using a variety of markup languages, they create aesthetic websites that are functional and consistent in design."
+    },
+    {
+        "id": "3",
+        "Job Role": "System Engineer",
+        "Job Description": " System engineers are responsible for the installation, configuration and testing of operating systems. They evaluate existing systems to ensure structural integrity"
+    }
 ]
