@@ -8,5 +8,10 @@
         "id": "2",
         "Domain": "Python CheatSheet",
         "Link": "https://www.pythoncheatsheet.org/cheatsheet/basics"
+    },
+    {
+        "id":"3",
+        "Domain":"Command Line CheatSheet",
+        "Link": "https://www.learnenough.com/command-line-tutorial"
     }
 ]
