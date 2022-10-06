@@ -145,8 +145,48 @@
         "emoji-name": "Black Circle"
     },
     {
-        "emoji-id": "31",   
-        "emoji":  "⚪",
-        "emoji-name": "White Circle"
+        "emoji-id": "32",   
+        "emoji":  "🏕️",
+        "emoji-name": "Camping"
+    },
+    {
+        "emoji-id": "33",   
+        "emoji":  "✨",
+        "emoji-name": "Sparkles"
+    },
+      {
+        "emoji-id": "34",   
+        "emoji":  "🗼",
+        "emoji-name": "Tokyo Tower"
+    },
+      {
+        "emoji-id": "35",   
+        "emoji":  "🗽",
+        "emoji-name": "Statue-of-liberty"
+    },
+      {
+        "emoji-id": "36",   
+        "emoji":  "🛕",
+        "emoji-name": "Temple"
+    },
+      {
+        "emoji-id": "37",   
+        "emoji":  "🎡",
+        "emoji-name": "Ferris-wheel"
+    },
+      {
+        "emoji-id": "38",   
+        "emoji":  "🪐",
+        "emoji-name": "Saturn"
+    },
+     {
+        "emoji-id": "39",   
+        "emoji":  "🚢",
+        "emoji-name": "Ship"
+    },
+     {
+        "emoji-id": "40",   
+        "emoji":  "⛴️",
+        "emoji-name": "Ferry"
     }
 ]
