@@ -1,103 +1,133 @@
 [
-    {
-        "id": "1",
-        "JobRole": "Sofware Developer",
-        "JobDescription": "A Software Developer is generally responsible for the development, design and implementation of new or modified software products or ongoing business projects."
-    },
-    {
-        "id": "2",
-        "JobRole": "Front-end developer",
-        "JobDescription": " A front-end developer is responsible for planning, designing and developing websites. Using a variety of markup languages, they create aesthetic websites that are functional and consistent in design."
-    },
-    {
-        "id": "3",
-        "JobRole": "System Engineer",
-        "JobDescription": " System engineers are responsible for the installation, configuration and testing of operating systems. They evaluate existing systems to ensure structural integrity"
-    },
-    {
-        "id": "4",
-        "JobRole": "IT consultant ",
-        "JobDescription": "an IT consultant advises clients on the planning, design, installation and usage of information technology systems to meet their business objectives, overcome problems or improve the structure and efficiency of their IT systems"
-    },
-    {
-        "id": "5",
-        "JobRole": "Games developer",
-        "JobDescription": "Games developers produce games for personal computers, games consoles, social/online games, arcade games, tablets, mobile phones and other hand-held devices."
-    },
-    {
-        "id": "6",
-        "JobRole": "Machine Learning Engineer",
-        "JobDescription": "As a Machine Learning Engineer, it will be your job to build and deploy ML systems that can automatically learn and improve independently."
-    },
-    {
-        "id": "7",
-        "JobRole": "Data Engineer",
-        "JobDescription": "Data Engineer role is to develop and maintain large and complex databases as well as large-scale data processing systems. As a key member of analytics or engineering teams, a data engineer must be comfortable working collaboratively. This role requires comprehensive knowledge of query and database skills."
-    },
-    {
-        "id": "8",
-        "JobRole": "UX Design",
-        "JobDescription": "A UX Designer is a professional responsible for turning applications into something that people enjoy using. They do this by studying the user experience and measuring how easy it is to complete tasks in an efficient manner while improving ease-of-use capabilities through many different approaches."
-    },
-    {
-        "id": "9",
-        "JobRole": "Graphic Gesign",
-        "JobDescription": "Graphic designers use computers or hand tools to create posters, websites, logos, brochures, magazines and many other materials to communicate ideas and information visually. They are sometimes called graphic artists."
-    },
-    {
-        "id": "10",
-        "JobRole": "Digital Marketing",
-        "JobDescription": "Primarily, a digital marketer is in charge of all the digital channels and uses them to drive brand awareness and generate leads. That is to say, a digital marketer's roles and responsibilities involve overseeing and development of the overall content strategy for an enterprise, as well as marketing campaigns."
-    },
-    {
-        "id": "11",
-        "JobRole": "Network Administrator",
-        "JobDescription": "The Network Administrator's role is to ensure the stable operation of the computer networks. This includes planning, developing, installing, configuring, maintaining, supporting, and optimizing all network hardware, software, and communication links."
-    },
-    {
-        "id": "12",
-        "JobRole": "Database Administrator",
-        "JobDescription": "Database Administrators ensure that the databases run efficiently and securely. For example, they create or organize systems to store different data types, such as financial information and customer shipping records. They also make sure authorized users can access this information when needed."
-    },
-    {
-        "id": "13",
-        "JobRole": "Cloud engineer",
-        "JobDescription": "Cloud engineers research and implement ways to transfer a company's existing infrastructure to cloud-based systems. Cloud systems are remote servers that store and manage data. These professionals also maintain that data and information once they move it to the new system."
-    },
-    {
-        "id": "14",
-        "JobRole": "Solutions Architect",
-        "JobDescription": "A solutions architect creates the overall technical vision for a specific solution to a business problem. They design, describe, and manage the solution."
-    },
-    {
-        "id": "15",
-        "JobRole": "DevOps engineer",
-        "JobDescription": "A DevOps engineer introduces processes, tools, and methodologies to balance needs throughout the software development life cycle, from coding and deployment."
-    },
-    {
-        "id": "16",
-        "JobRole": "Application Engineer",
-        "JobDescription": "An Application Engineer is a professional who develops customized software programs for clients and collaborates with development teams to create complex and sophisticated software applications."
-    },
-    {
-        "id": "17",
-        "JobRole": "Data Analyst",
-        "JobDescription": "A data analyst reviews data to identify key insights into a business's customers and ways the data can be used to solve problems. They also communicate this information to company leadership and other stakeholders."
-    },
-    {
-        "id": "18",
-        "JobRole": "Test engineer",
-        "JobDescription": "A test engineer is a professional who determines how to create a process that would best test a particular product in manufacturing and related disciplines, in order to assure that the product meets applicable specifications."
-    },
-    {
-        "id": "19",
-        "JobRole": "IT manager",
-        "JobDescription": "IT managers are responsible for coordinating, planning, and leading computer-related activities in an organization. They help determine the IT needs of an organization and are responsible for implementing computer systems to fulfill the organization's information systems requirements."
-    },
-    {
-        "id": "20",
-        "JobRole": "Digital manager",
-        "JobDescription": "A Digital Strategy Manager is an executive position. This position is based on a unique set of technological knowledge which directs all departments for digital industry growth."
-    }
+  {
+    "id": "1",
+    "JobRole": "Software Developer",
+    "JobDescription": "A Software Developer is generally responsible for the development, design and implementation of new or modified software products or ongoing business projects."
+  },
+  {
+    "id": "2",
+    "JobRole": "Front-end developer",
+    "JobDescription": " A front-end developer is responsible for planning, designing and developing websites. Using a variety of markup languages, they create aesthetic websites that are functional and consistent in design."
+  },
+  {
+    "id": "3",
+    "JobRole": "System Engineer",
+    "JobDescription": " System engineers are responsible for the installation, configuration and testing of operating systems. They evaluate existing systems to ensure structural integrity"
+  },
+  {
+    "id": "4",
+    "JobRole": "IT consultant ",
+    "JobDescription": "an IT consultant advises clients on the planning, design, installation and usage of information technology systems to meet their business objectives, overcome problems or improve the structure and efficiency of their IT systems"
+  },
+  {
+    "id": "5",
+    "JobRole": "Games developer",
+    "JobDescription": "Games developers produce games for personal computers, games consoles, social/online games, arcade games, tablets, mobile phones and other hand-held devices."
+  },
+  {
+    "id": "6",
+    "JobRole": "Machine Learning Engineer",
+    "JobDescription": "As a Machine Learning Engineer, it will be your job to build and deploy ML systems that can automatically learn and improve independently."
+  },
+  {
+    "id": "7",
+    "JobRole": "Data Engineer",
+    "JobDescription": "Data Engineer role is to develop and maintain large and complex databases as well as large-scale data processing systems. As a key member of analytics or engineering teams, a data engineer must be comfortable working collaboratively. This role requires comprehensive knowledge of query and database skills."
+  },
+  {
+    "id": "8",
+    "JobRole": "UX Design",
+    "JobDescription": "A UX Designer is a professional responsible for turning applications into something that people enjoy using. They do this by studying the user experience and measuring how easy it is to complete tasks in an efficient manner while improving ease-of-use capabilities through many different approaches."
+  },
+  {
+    "id": "9",
+    "JobRole": "Graphic Gesign",
+    "JobDescription": "Graphic designers use computers or hand tools to create posters, websites, logos, brochures, magazines and many other materials to communicate ideas and information visually. They are sometimes called graphic artists."
+  },
+  {
+    "id": "10",
+    "JobRole": "Digital Marketing",
+    "JobDescription": "Primarily, a digital marketer is in charge of all the digital channels and uses them to drive brand awareness and generate leads. That is to say, a digital marketer's roles and responsibilities involve overseeing and development of the overall content strategy for an enterprise, as well as marketing campaigns."
+  },
+  {
+    "id": "11",
+    "JobRole": "Network Administrator",
+    "JobDescription": "The Network Administrator's role is to ensure the stable operation of the computer networks. This includes planning, developing, installing, configuring, maintaining, supporting, and optimizing all network hardware, software, and communication links."
+  },
+  {
+    "id": "12",
+    "JobRole": "Database Administrator",
+    "JobDescription": "Database Administrators ensure that the databases run efficiently and securely. For example, they create or organize systems to store different data types, such as financial information and customer shipping records. They also make sure authorized users can access this information when needed."
+  },
+  {
+    "id": "13",
+    "JobRole": "Cloud engineer",
+    "JobDescription": "Cloud engineers research and implement ways to transfer a company's existing infrastructure to cloud-based systems. Cloud systems are remote servers that store and manage data. These professionals also maintain that data and information once they move it to the new system."
+  },
+  {
+    "id": "14",
+    "JobRole": "Solutions Architect",
+    "JobDescription": "A solutions architect creates the overall technical vision for a specific solution to a business problem. They design, describe, and manage the solution."
+  },
+  {
+    "id": "15",
+    "JobRole": "DevOps engineer",
+    "JobDescription": "A DevOps engineer introduces processes, tools, and methodologies to balance needs throughout the software development life cycle, from coding and deployment."
+  },
+  {
+    "id": "16",
+    "JobRole": "Application Engineer",
+    "JobDescription": "An Application Engineer is a professional who develops customized software programs for clients and collaborates with development teams to create complex and sophisticated software applications."
+  },
+  {
+    "id": "17",
+    "JobRole": "Data Analyst",
+    "JobDescription": "A data analyst reviews data to identify key insights into a business's customers and ways the data can be used to solve problems. They also communicate this information to company leadership and other stakeholders."
+  },
+  {
+    "id": "18",
+    "JobRole": "Test engineer",
+    "JobDescription": "A test engineer is a professional who determines how to create a process that would best test a particular product in manufacturing and related disciplines, in order to assure that the product meets applicable specifications."
+  },
+  {
+    "id": "19",
+    "JobRole": "IT manager",
+    "JobDescription": "IT managers are responsible for coordinating, planning, and leading computer-related activities in an organization. They help determine the IT needs of an organization and are responsible for implementing computer systems to fulfill the organization's information systems requirements."
+  },
+  {
+    "id": "20",
+    "JobRole": "Digital manager",
+    "JobDescription": "A Digital Strategy Manager is an executive position. This position is based on a unique set of technological knowledge which directs all departments for digital industry growth."
+  },
+  {
+    "id": "21",
+    "JobRole": "Backend Engineer",
+    "JobDescription": "A backend engineer is responsible for designing, building, and maintaining the server-side of web applications. In other words, a backend engineer's primary responsibility is to build the structure of a software application."
+  },
 
+  {
+    "id": "22",
+    "JobRole": "SRE(Site Reliability Engineer)",
+    "JobDescription": "Site reliability engineering (SRE) is a set of principles and practices that incorporates aspects of software engineering and applies them to infrastructure and operations problems. The main goals are to create scalable and highly reliable software systems."
+  },
+  {
+    "id": "23",
+    "JobRole": "SDET(Software Development Engineer in Test)",
+    "JobDescription": "IT professional who can work equally and effectively in both development and testing roles. SDETs take part in complete software development process as well as software testing process."
+  },
+  {
+    "id": "24",
+    "JobRole": "QA Engineer",
+    "JobDescription": "A QA Engineer is a professional who finds and fixes bugs in a product or program before its launch, collaborating with developers on fixes to those problems when necessary."
+  },
+  {
+    "id": "25",
+    "JobRole": "Security Analyst",
+    "JobDescription": "Information security analysts install software, such as firewalls, to protect computer networks. Information security analysts plan and carry out security measures to protect an organization's computer networks and systems."
+  },
+  {
+    "id": "26",
+    "JobRole": "Devrel Engineer",
+    "JobDescription": "Developer Relations (DevRel) is an interdisciplinary role that sits in a border space between product, engineering, and marketing."
+  }
 ]
