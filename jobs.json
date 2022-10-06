@@ -98,6 +98,12 @@
         "id": "20",
         "JobRole": "Digital manager",
         "JobDescription": "A Digital Strategy Manager is an executive position. This position is based on a unique set of technological knowledge which directs all departments for digital industry growth."
+    },
+    {
+        "id": "21",
+        "JobRole": "UI UX developer",
+        "JobDescription": "A UI, UX, and front-end web developer is responsible for applying interactive and visual design principles on websites and web applications for a positive and cohesive user experience. These developers use HTML, CSS, and other design tools to achieve responsive designs."
     }
+    
 
 ]
