@@ -31,12 +31,25 @@ Ya ya I know, you are very confused, buddy! I got you <3
 
      If you're a newbie and don't know anything about web-dev, i am sorry mate but these aren't for you.
      So these files are the files required to covert this project into a working website. These files are `script.js` and `project.html`
+### **HACKTOBERFEST 2022**
 
+### What is HacktoberFest?
+   ####  DigitalOcean Hacktoberfest is an annual celebration encouraging open source contributions during the month of October. We all use and depend on open source to power our digital world. 
+   ####  **Rules**
+   1.  For PRs to be counted into your participation in Hacktoberfest, they must be merged between October 1st and October 31st.
+   2.  Contributions must be made to public repositories.
+   3.  If a PR has a label that contains the word spam in it, the PR will not be counted. Also, if a participant has 2 or more spam PRs, they'll be disqualified            from Hacktoberfest.
+   4.  If a PR has a label that contains the word invalid, it will not be counted. The exception for this is if the PR also has the label hacktoberfest-accepted.
+  ####  [HacktoberFest Official Website](https://hacktoberfest.com/)
+    
+    
+   #### ![HacktoberFest2022](https://pbs.twimg.com/profile_images/1567906020831150081/oJ7mKaaj_400x400.jpg)
 ## Suggestion
  
    This project, being open-source will always be open for valuable suggestions, which would enhance the overall  quality.
    
- ### If you like the repo or the project, don't forget to give it a star <3
+ ### If you like the repo or the project, don't forget to give it a ⭐!
+ ### Happy Hacking 💻 🧑‍🎓!
 
 
 
