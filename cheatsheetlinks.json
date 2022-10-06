@@ -259,5 +259,10 @@
         "id"  : "48",
         "Domain" : "JAVA OOP CheatSheet",
         "Link" : "https://www.edureka.co/blog/cheatsheets/java-oop-cheat-sheet/"
+    },
+    {
+        "id"  : "49",
+        "Domain" : "Swift CheatSheet",
+        "Link" : "https://kpbp.github.io/swiftcheatsheet/"
     }
 ]
