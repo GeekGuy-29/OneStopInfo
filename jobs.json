@@ -98,11 +98,6 @@
         "id": "20",
         "JobRole": "Digital manager",
         "JobDescription": "A Digital Strategy Manager is an executive position. This position is based on a unique set of technological knowledge which directs all departments for digital industry growth."
-    },
-     {
-        "id": "21",
-        "JobRole": "Unity 3D AR/VR Developer",
-        "JobDescription": "An AR/VR Developer is responsible for creating immersive experiences using the technogies like Augmented Reality and Virutal Reality ."
     }
 
 ]
