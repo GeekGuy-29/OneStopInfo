@@ -33,6 +33,10 @@
         "id": "7",
         "JobRole": "Data Engineer",
         "JobDescription": "Data Engineer role is to develop and maintain large and complex databases as well as large-scale data processing systems. As a key member of analytics or engineering teams, a data engineer must be comfortable working collaboratively. This role requires comprehensive knowledge of query and database skills."
-    }
-    
+    },
+    {
+        "id":"8",
+        "JobRole": "Backend Developer",
+        "JobDescription":"Back-end developers create, code, and improve the server, server-side applications, and databases that, when combined with front-end codes, help create a functional, seamless experience for the end-user. They study industry trends, create or improve back-end processes and codes, and work with others to design a better program."
+    },
 ]
