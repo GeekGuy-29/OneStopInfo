@@ -89,4 +89,9 @@
         "Domain":"Python Complete cheatsheet for Data Science",
         "Link":"https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf"
     }
+    {
+        "id":"18",
+        "Domain":"Machine Learning cheatsheet",
+        "Link":"https://ml-cheatsheet.readthedocs.io/en/latest/"
+    }
 ]
