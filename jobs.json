@@ -1,38 +1,122 @@
 [
-    {
-        "id": "1",
-        "JobRole": "Sofware Developer",
-        "JobDescription": "A Software Developer is generally responsible for the development, design and implementation of new or modified software products or ongoing business projects."
-    },
-    {
-        "id": "2",
-        "JobRole": "Front-end developer",
-        "JobDescription": " A front-end developer is responsible for planning, designing and developing websites. Using a variety of markup languages, they create aesthetic websites that are functional and consistent in design."
-    },
-    {
-        "id": "3",
-        "JobRole": "System Engineer",
-        "JobDescription": " System engineers are responsible for the installation, configuration and testing of operating systems. They evaluate existing systems to ensure structural integrity"
-    },
-    {
-        "id": "4",
-        "JobRole": "IT consultant ",
-        "JobDescription": "an IT consultant advises clients on the planning, design, installation and usage of information technology systems to meet their business objectives, overcome problems or improve the structure and efficiency of their IT systems"
-    },
-    {
-        "id": "5",
-        "JobRole": "Games developer",
-        "JobDescription": "Games developers produce games for personal computers, games consoles, social/online games, arcade games, tablets, mobile phones and other hand-held devices."
-    },
-    {
-        "id": "6",
-        "JobRole": "Machine Learning Engineer",
-        "JobDescription": "As a Machine Learning Engineer, it will be your job to build and deploy ML systems that can automatically learn and improve independently."
-    },
-    {
-        "id": "7",
-        "JobRole": "Data Engineer",
-        "JobDescription": "Data Engineer role is to develop and maintain large and complex databases as well as large-scale data processing systems. As a key member of analytics or engineering teams, a data engineer must be comfortable working collaboratively. This role requires comprehensive knowledge of query and database skills."
-    }
-    
+  {
+    "id": "1",
+    "JobRole": "Sofware Developer",
+    "JobDescription": "A Software Developer is generally responsible for the development, design and implementation of new or modified software products or ongoing business projects."
+  },
+  {
+    "id": "2",
+    "JobRole": "Front-end developer",
+    "JobDescription": " A front-end developer is responsible for planning, designing and developing websites. Using a variety of markup languages, they create aesthetic websites that are functional and consistent in design."
+  },
+  {
+    "id": "3",
+    "JobRole": "System Engineer",
+    "JobDescription": " System engineers are responsible for the installation, configuration and testing of operating systems. They evaluate existing systems to ensure structural integrity"
+  },
+  {
+    "id": "4",
+    "JobRole": "IT consultant ",
+    "JobDescription": "an IT consultant advises clients on the planning, design, installation and usage of information technology systems to meet their business objectives, overcome problems or improve the structure and efficiency of their IT systems"
+  },
+  {
+    "id": "5",
+    "JobRole": "Games developer",
+    "JobDescription": "Games developers produce games for personal computers, games consoles, social/online games, arcade games, tablets, mobile phones and other hand-held devices."
+  },
+  {
+    "id": "6",
+    "JobRole": "Machine Learning Engineer",
+    "JobDescription": "As a Machine Learning Engineer, it will be your job to build and deploy ML systems that can automatically learn and improve independently."
+  },
+  {
+    "id": "7",
+    "JobRole": "Data Engineer",
+    "JobDescription": "Data Engineer role is to develop and maintain large and complex databases as well as large-scale data processing systems. As a key member of analytics or engineering teams, a data engineer must be comfortable working collaboratively. This role requires comprehensive knowledge of query and database skills."
+  },
+  {
+    "id": "8",
+    "JobRole": "Software Architect",
+    "JobDescription": "A Software architect is a software engineer responsible for high-level design choices related to overall system structure and behavior."
+  },
+  {
+    "id": "9",
+    "JobRole": "Engineering Project Manager",
+    "JobDescription": "An engineering project manager is a person who directs and assesses the daily operations of an engineering team."
+  },
+  {
+    "id": "10",
+    "JobRole": "Product Manager",
+    "JobDescription": "A product manager is the person who identifies the customer need and the larger business objectives that a product or feature will fulfill, articulates what success looks like for a product, and rallies a team to turn that vision into a reality. "
+  },
+  {
+    "id": "11",
+    "JobRole": "Vice President (VP) of Marketing ",
+    "JobDescription": "Vice President (VP) of Marketing is a marketing expert who takes responsibility for overall marketing results of a company. Vice President (VP) of Marketing oversees marketing strategies and efforts in order to strengthen company's market position and achieve desired business goals."
+  },
+  {
+    "id": "12",
+    "JobRole": "Vice President (VP) of Engineering",
+    "JobDescription": "Vice President (VP) of Engineering is an executive who manages development teams. VPs of engineering are responsible for ensuring that design requirements are met, overseeing the consistency of user experiences, and managing a team of engineers and developers."
+  },
+  {
+    "id": "13",
+    "JobRole": "Account Manager",
+    "JobDescription": "An account manager is an entry- to mid-level employee who is responsible for the day-to-day management of a particular customer's account within a business."
+  },
+  {
+    "id": "14",
+    "JobRole": "Procurement Manager",
+    "JobDescription": "Procurement Manager is a supply chain and logistics professional specialized in ensuring the cost-effective purchase of all materials and services as required by the procurement plan whilst ensuring quality control and compliance with the Company’s policies and procedures."
+  },
+  {
+    "id": "15",
+    "JobRole": "Learning and Development Manager",
+    "JobDescription": "Learning and Development Manager is responsible for the training and professional development of an organization’s employees. Their purpose is to make the most out of people’s talents and help them develop to their full potential. At the same time, an L&D manager keeps a strong focus not just on what the learner wants and needs, but also on the needs of the organization."
+  },
+  {
+    "id": "16",
+    "JobRole": "User Interface Designer",
+    "JobDescription": "UI Designer or User Interface Designer — designs all the screens through which a user will move while using a website, app, or video game, while also creating the visual design elements that make this movement possible."
+  },
+  {
+    "id": "17",
+    "JobRole": "User Experience Designer",
+    "JobDescription": "UX Designer or User Experience Designer role is to make a product or service usable, enjoyable, and accessible."
+  },
+  {
+    "id": "18",
+    "JobRole": "Human Resources Coordinator",
+    "JobDescription": "Human Resources Coordinator is responsible for facilitating all key HR functions and programs. This includes issues raised by current and future employees and matters related to employment, compensation and benefits, labor negotiations, and employee relations."
+  },
+  {
+    "id": "19",
+    "JobRole": "Payroll Coordinator",
+    "JobDescription": "Payroll coordinator responsibilities include processing timesheets, updating payroll records and answering employee questions about payments. Ultimately, you'll ensure employees are compensated correctly and on time."
+  },
+  {
+    "id": "20",
+    "JobRole": "Human Resource Manager",
+    "JobDescription": "Human Resource Manager will lead and direct the routine functions of the Human Resources (HR) department including hiring and interviewing staff, administering pay, benefits, and leave, and enforcing company policies and practices."
+  },
+  {
+    "id": "21",
+    "JobRole": "Career Consultants",
+    "JobDescription": "Career consultants help individuals identify their career goals and then work with them to achieve those goals. They may also provide general advice on how to best navigate the job search process, including tips on how to write a resume or cover letter, prepare for an interview, etc."
+  },
+  {
+    "id": "22",
+    "JobRole": "Placement Coordinators",
+    "JobDescription": "Placement coordinators are professionals who provide students with field placement contact information."
+  },
+  {
+    "id": "23",
+    "JobRole": "Digital Marketing Manager",
+    "JobDescription": "Digital Marketing Manager is a professional who is responsible for maintaining a brand's online presence and sales by working on various marketing campaigns."
+  },
+  {
+    "id": "24",
+    "JobRole": "Digital Marketing Analyst",
+    "JobDescription": "Digital marketing analysts monitor online marketing trends, analyze statistics, develop strategies for digital marketing campaigns, and track campaign performance."
+  }
 ]
