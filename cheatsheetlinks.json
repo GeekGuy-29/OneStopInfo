@@ -18,5 +18,20 @@
         "id":"4",
         "Domain":"Software Engineering Tips and Tricks",
         "Link":"https://www.freecodecamp.org/news/tag/blog/"
+    },
+    {
+        "id":"5",
+        "Domain":"HTML5 interactive CheatSheet",
+        "Link":"https://htmlcheatsheet.com/"
+    },
+    {
+        "id":"6",
+        "Domain":"CSS3 interactive CheatSheet",
+        "Link":"https://htmlcheatsheet.com/css/"
+    },
+    {
+        "id":"7",
+        "Domain":"JavaScript interactive CheatSheet",
+        "Link":"https://htmlcheatsheet.com/js/"
     }
 ]
