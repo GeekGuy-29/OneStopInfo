@@ -1,50 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Project Testing</title>
-</head>
-<body>
-    <div id="myData"></div>
-    <script>
-        fetch("jobs.json")
-            .then(function (jobs) {
-                return jobs.json();
-            })
-            .then(function (data) {
-                appendData(data);
-            })
-            .catch(function (err) {
-                console.log('error: ' + err);
-            });
-        function appendData(data) {
-            var mainContainer = document.getElementById("myData");
-            for (var i = 0; i < data.length; i++) {
-                var div = document.createElement("div");
-                div.innerHTML = 'Job Name:  ' + data[i].JobRole + ' ' + data[i].JobDescription;
-                mainContainer.appendChild(div);
-            }
-        }
-        fetch("cheatsheetlinks.json")
-            .then(function (jobs) {
-                return cheatsheetlinks.json();
-            })
-            .then(function (data) {
-                appendData(data);
-            })
-            .catch(function (err) {
-                console.log('error: ' + err);
-            });
-        function appendData(data) {
-            var mainContainer = document.getElementById("myData");
-            for (var i = 0; i < data.length; i++) {
-                var div = document.createElement("div");
-                div.innerHTML = 'Job Name:  ' + data[i].Domain + ' ' + data[i].Link;
-                mainContainer.appendChild(div);
-            }
-        }
-    </script>
-</body>
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+		<title>Project Testing</title>
+	</head>
+	<body>
+		<div id="myData"></div>
+		<script src="script.js"></script>
+	</body>
 </html>
