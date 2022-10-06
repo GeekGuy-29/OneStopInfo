@@ -130,4 +130,14 @@
         "Domain" : "Command line Cheatsheet",
         "Link" : "https://www.git-tower.com/learn/cheat-sheets/cli/",
     },
+    {
+        "id"  : "23",
+        "Domain" : "DSA Cheatsheet",
+        "Link" : "https://github.com/Pradetto/DSA-Cheat-Sheets#neetcodes-75-leetcode-problems-and-solutions",
+    },
+    {
+        "id"  : "24",
+        "Domain" : "Cyber Security Cheatsheet",
+        "Link" : "https://github.com/Lifka/hacking-resources",
+    },
     ]
