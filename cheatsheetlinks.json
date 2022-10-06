@@ -89,4 +89,30 @@
         "Domain":"Python Complete cheatsheet for Data Science",
         "Link":"https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf"
     }
-]
+    {
+        "id" : "18",
+        "Domain" : "Microsoft word Cheatsheet",
+        "Link" : "https://in.pinterest.com/pin/10203536646163666/",
+    },
+    {
+        "id" : "19",
+        "Domain" : "Microsoft Excel Cheatsheet",
+        "Link" : "https://excelexposure.com/excel-shortcuts-cheat-sheet/",
+    },
+    {
+        "id" : "20",
+        "Domain" : "Kotlin cheatsheet",
+        "Link" : "https://blog.kotlin-academy.com/kotlin-cheat-sheet-1137588c75a",
+    },
+    {
+        "id" : "21",
+        "Domain" : "Swift CheatSheet for (OOPS)",
+        "Link" : "https://weimenglee.blogspot.com/2014/11/swift-cheat-sheets-download-today.html?m=1",
+
+    },
+    {
+        "id"  : "22",
+        "Domain" : "Command line Cheatsheet",
+        "Link" : "https://www.git-tower.com/learn/cheat-sheets/cli/",
+    },
+    ]
