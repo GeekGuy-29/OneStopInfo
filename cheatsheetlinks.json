@@ -244,5 +244,20 @@
         "id"  : "45",
         "Domain" : "MATLAB",
         "Link" : "https://www.cs.cmu.edu/~tom/10601_fall2012/recitations/matlab_quickref.pdf"
+    },
+    {
+        "id"  : "46",
+        "Domain" : "SQL CheatSheet",
+        "Link" : "https://www.interviewbit.com/sql-cheat-sheet/"
+    },
+    {
+        "id"  : "47",
+        "Domain" : "DBMS CheatSheet",
+        "Link" : "https://www.geeksforgeeks.org/last-minute-notes-dbms/"
+    },
+    {
+        "id"  : "48",
+        "Domain" : "JAVA OOP CheatSheet",
+        "Link" : "https://www.edureka.co/blog/cheatsheets/java-oop-cheat-sheet/"
     }
 ]
