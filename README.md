@@ -42,7 +42,7 @@ Ya ya I know, you are very confused, buddy! I got you <3
 - Please don't make any changes to the README.md file.
 - Please read [CODE_OF_CONDUCT.md](/CODE_OF_CONDUCT.md).
 
-### **HACKTOBERFEST 2022**
+###               **HACKTOBERFEST 2022**
 
 ### What is HacktoberFest?
    ####  DigitalOcean Hacktoberfest is an annual celebration encouraging open source contributions during the month of October. We all use and depend on open source to power our digital world. 
@@ -56,7 +56,7 @@ Ya ya I know, you are very confused, buddy! I got you <3
   
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-      <img src="https://pbs.twimg.com/profile_images/1567906020831150081/oJ7mKaaj_400x400.jpg" width=900px>
+      <img src="https://pbs.twimg.com/profile_images/1567906020831150081/oJ7mKaaj_400x400.jpg" width=200px>
     </a>
 </p>  
   
