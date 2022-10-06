@@ -14,17 +14,17 @@ The rules are
 
 ## How to contribute to this repository
 
-### 1. Star this repository
+#### 1. Star this repository
 
 Star this repository by clicking on the star button on the top right of this page. This will help us in promoting this repository.
 
-### 2. Fork this repository
+#### 2. Fork this repository
 
 You can get your own fork/copy of [OneStopInfo](https://github.com/GeekGuy-29/OneStopInfo) by using the <kbd><b>Fork</b></kbd></a> button.
 
  [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](
 
-### 3. Clone the repository
+#### 3. Clone the repository
 
 You need to clone (download) it to local machine using
 
@@ -43,7 +43,7 @@ $ cd OneStopInfo
 
 Move to this folder for all other commands.
 
-### 4. Create a new branch
+#### 4. Create a new branch
 
 
 Whenever you are going to make contribution. Please create separate branch using command and keep your `main` branch clean (i.e. synced with remote branch).
