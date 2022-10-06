@@ -48,5 +48,45 @@
         "id":"10",
         "Domain":"Git",
         "Link":"https://education.github.com/git-cheat-sheet-education.pdf"
+    },
+    {
+        "id":"11",
+        "Domain":"React.js",
+        "Link":"https://devhints.io/react"
+    },
+    {
+        "id":"12",
+        "Domain":"Bootstrap 4",
+        "Link":"https://hackerthemes.com/bootstrap-cheatsheet/"
+    },
+    {
+        "id":"13",
+        "Domain":"Bootstrap 5",
+        "Link":"https://bootstrap-cheatsheet.themeselection.com/"
+    },
+    {
+        "id":"14",
+        "Domain":"Dart",
+        "Link":"https://quickref.me/dart"
+    },
+    {
+        "id":"15",
+        "Domain":"Java Programming",
+        "Link":"https://introcs.cs.princeton.edu/java/11cheatsheet/"
+    },
+    {
+        "id":"16",
+        "Domain":"C Programming",
+        "Link":"https://cheatography.com/ashlyn-black/cheat-sheets/c-reference/"
+    },
+    {
+        "id":"16",
+        "Domain":"Backend (Node and Express)",
+        "Link":"https://courses.cs.washington.edu/courses/cse154/19su/resources/assets/cheatsheets/node-cheatsheet.pdf"
+    },
+    {
+        "id":"17",
+        "Domain":"Python Complete cheatsheet for Data Science",
+        "Link":"https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf"
     }
 ]
