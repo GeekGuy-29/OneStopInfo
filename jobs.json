@@ -63,5 +63,41 @@
         "id": "13",
         "JobRole": "Cloud engineer",
         "JobDescription": "Cloud engineers research and implement ways to transfer a company's existing infrastructure to cloud-based systems. Cloud systems are remote servers that store and manage data. These professionals also maintain that data and information once they move it to the new system."
+    },
+    {
+        "id": "14",
+        "JobRole": "Solutions Architect",
+        "JobDescription": "A solutions architect creates the overall technical vision for a specific solution to a business problem. They design, describe, and manage the solution."
+    },
+    {
+        "id": "15",
+        "JobRole": "DevOps engineer",
+        "JobDescription": "A DevOps engineer introduces processes, tools, and methodologies to balance needs throughout the software development life cycle, from coding and deployment."
+    },
+    {
+        "id": "16",
+        "JobRole": "Application Engineer",
+        "JobDescription": "An Application Engineer is a professional who develops customized software programs for clients and collaborates with development teams to create complex and sophisticated software applications."
+    },
+    {
+        "id": "17",
+        "JobRole": "Data Analyst",
+        "JobDescription": "A data analyst reviews data to identify key insights into a business's customers and ways the data can be used to solve problems. They also communicate this information to company leadership and other stakeholders."
+    },
+    {
+        "id": "18",
+        "JobRole": "Test engineer",
+        "JobDescription": "A test engineer is a professional who determines how to create a process that would best test a particular product in manufacturing and related disciplines, in order to assure that the product meets applicable specifications."
+    },
+    {
+        "id": "19",
+        "JobRole": "IT manager",
+        "JobDescription": "IT managers are responsible for coordinating, planning, and leading computer-related activities in an organization. They help determine the IT needs of an organization and are responsible for implementing computer systems to fulfill the organization's information systems requirements."
+    },
+    {
+        "id": "20",
+        "JobRole": "Digital manager",
+        "JobDescription": "A Digital Strategy Manager is an executive position. This position is based on a unique set of technological knowledge which directs all departments for digital industry growth."
     }
+
 ]
