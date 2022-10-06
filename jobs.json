@@ -13,5 +13,26 @@
         "id": "3",
         "JobRole": "System Engineer",
         "JobDescription": " System engineers are responsible for the installation, configuration and testing of operating systems. They evaluate existing systems to ensure structural integrity"
+    },
+    {
+        "id": "4",
+        "JobRole": "IT consultant ",
+        "JobDescription": "an IT consultant advises clients on the planning, design, installation and usage of information technology systems to meet their business objectives, overcome problems or improve the structure and efficiency of their IT systems"
+    },
+    {
+        "id": "5",
+        "JobRole": "Games developer",
+        "JobDescription": "Games developers produce games for personal computers, games consoles, social/online games, arcade games, tablets, mobile phones and other hand-held devices."
+    },
+    {
+        "id": "6",
+        "JobRole": "Machine Learning Engineer",
+        "JobDescription": "As a Machine Learning Engineer, it will be your job to build and deploy ML systems that can automatically learn and improve independently."
+    },
+    {
+        "id": "7",
+        "JobRole": "Data Engineer",
+        "JobDescription": "Data Engineer role is to develop and maintain large and complex databases as well as large-scale data processing systems. As a key member of analytics or engineering teams, a data engineer must be comfortable working collaboratively. This role requires comprehensive knowledge of query and database skills."
     }
+    
 ]
