@@ -63,5 +63,10 @@
         "id": "13",
         "JobRole": "Cloud engineer",
         "JobDescription": "Cloud engineers research and implement ways to transfer a company's existing infrastructure to cloud-based systems. Cloud systems are remote servers that store and manage data. These professionals also maintain that data and information once they move it to the new system."
+    },
+    {
+        "id":"8",
+        "JobRole": "Backend Developer",
+        "JobDescription":"Back-end developers create, code, and improve the server, server-side applications, and databases that, when combined with front-end codes, help create a functional, seamless experience for the end-user. They study industry trends, create or improve back-end processes and codes, and work with others to design a better program."
     }
 ]
