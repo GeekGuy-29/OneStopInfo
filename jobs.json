@@ -33,6 +33,35 @@
         "id": "7",
         "JobRole": "Data Engineer",
         "JobDescription": "Data Engineer role is to develop and maintain large and complex databases as well as large-scale data processing systems. As a key member of analytics or engineering teams, a data engineer must be comfortable working collaboratively. This role requires comprehensive knowledge of query and database skills."
+    },
+    {
+        "id": "8",
+        "JobRole": "UX Design",
+        "JobDescription": "A UX Designer is a professional responsible for turning applications into something that people enjoy using. They do this by studying the user experience and measuring how easy it is to complete tasks in an efficient manner while improving ease-of-use capabilities through many different approaches."
+    },
+    {
+        "id": "9",
+        "JobRole": "Graphic Gesign",
+        "JobDescription": "Graphic designers use computers or hand tools to create posters, websites, logos, brochures, magazines and many other materials to communicate ideas and information visually. They are sometimes called graphic artists."
+    },
+    {
+        "id": "10",
+        "JobRole": "Digital Marketing",
+        "JobDescription": "Primarily, a digital marketer is in charge of all the digital channels and uses them to drive brand awareness and generate leads. That is to say, a digital marketer's roles and responsibilities involve overseeing and development of the overall content strategy for an enterprise, as well as marketing campaigns."
+    },
+    {
+        "id": "11",
+        "JobRole": "Network Administrator",
+        "JobDescription": "The Network Administrator's role is to ensure the stable operation of the computer networks. This includes planning, developing, installing, configuring, maintaining, supporting, and optimizing all network hardware, software, and communication links."
+    },
+    {
+        "id": "12",
+        "JobRole": "Database Administrator",
+        "JobDescription": "Database Administrators ensure that the databases run efficiently and securely. For example, they create or organize systems to store different data types, such as financial information and customer shipping records. They also make sure authorized users can access this information when needed."
+    },
+    {
+        "id": "13",
+        "JobRole": "Cloud engineer",
+        "JobDescription": "Cloud engineers research and implement ways to transfer a company's existing infrastructure to cloud-based systems. Cloud systems are remote servers that store and manage data. These professionals also maintain that data and information once they move it to the new system."
     }
-    
 ]
