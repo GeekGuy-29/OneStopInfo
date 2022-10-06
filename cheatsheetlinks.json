@@ -21,16 +21,46 @@
     },
     {
         "id":"5",
+        "Domain":"VS Code Shortcuts",
+        "Link":"https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf"
+    },
+    {
+        "id":"6",
+        "Domain":"Hypertext Markup Language (HTML)",
+        "Link":"https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf"
+    },
+    {
+        "id":"7",
+        "Domain":"Cascading style sheet (CSS)",
+        "Link":"https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf"
+    },
+    {
+        "id":"8",
+        "Domain":"Javascript",
+        "Link":"https://htmlcheatsheet.com/js/"
+    },
+    {
+        "id":"9",
+        "Domain":"Javascript String, Array and Object Methods ",
+        "Link":"https://cheatography.com/anas-95/cheat-sheets/javascript-object-methods/"
+    },
+    {
+        "id":"10",
+        "Domain":"Git",
+        "Link":"https://education.github.com/git-cheat-sheet-education.pdf"
+    },
+    {
+        "id":"11",
         "Domain":"HTML5 interactive CheatSheet",
         "Link":"https://htmlcheatsheet.com/"
     },
     {
-        "id":"6",
+        "id":"12",
         "Domain":"CSS3 interactive CheatSheet",
         "Link":"https://htmlcheatsheet.com/css/"
     },
     {
-        "id":"7",
+        "id":"13",
         "Domain":"JavaScript interactive CheatSheet",
         "Link":"https://htmlcheatsheet.com/js/"
     }
