@@ -130,4 +130,10 @@
         "Domain" : "Command line Cheatsheet",
         "Link" : "https://www.git-tower.com/learn/cheat-sheets/cli/",
     },
+
+    {
+        "id"  : "23",
+        "Domain" : "Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles",
+        "Link" : "http://www.dhimangaurav.com/docs/data.pdf",
+    },
     ]
