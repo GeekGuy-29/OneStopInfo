@@ -31,6 +31,17 @@ Ya ya I know, you are very confused, buddy! I got you <3
 
      If you're a newbie and don't know anything about web-dev, i am sorry mate but these aren't for you.
      So these files are the files required to covert this project into a working website. These files are `script.js` and `project.html`
+     
+## How to contribute
+
+ Check [CONTRIBUTING.md](/CONTRIBUTING.md) for details regarding contribution.
+
+## Rules
+- Please be respectful to everyone.
+- Please don't spam.
+- Please don't make any changes to the README.md file.
+- Please read [CODE_OF_CONDUCT.md](/CODE_OF_CONDUCT.md).
+
 ### **HACKTOBERFEST 2022**
 
 ### What is HacktoberFest?
@@ -44,10 +55,12 @@ Ya ya I know, you are very confused, buddy! I got you <3
     
     
    #### ![HacktoberFest2022](https://pbs.twimg.com/profile_images/1567906020831150081/oJ7mKaaj_400x400.jpg)
+
 ## Suggestion
  
    This project, being open-source will always be open for valuable suggestions, which would enhance the overall  quality.
-   
+
+ ### if you have any question feel free to ask me.I will be happ to help you
  ### If you like the repo or the project, don't forget to give it a ⭐!
  ### Happy Hacking 💻 🧑‍🎓!
 
