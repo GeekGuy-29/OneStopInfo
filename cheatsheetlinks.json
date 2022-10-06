@@ -88,5 +88,10 @@
         "id":"17",
         "Domain":"Python Complete cheatsheet for Data Science",
         "Link":"https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf"
-    }
+    },
+    {
+        "id":"18",
+        "Domain":"Rust Programming Language",
+        "Link":"https://learnxinyminutes.com/docs/rust/"
+    }    
 ]
