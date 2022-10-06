@@ -105,28 +105,28 @@
         "Link":"https://htmlcheatsheet.com/js/"
     },
     {
-        "id" : "18",
+        "id" : "22",
         "Domain" : "Microsoft word Cheatsheet",
         "Link" : "https://in.pinterest.com/pin/10203536646163666/"
     },
     {
-        "id" : "19",
+        "id" : "23",
         "Domain" : "Microsoft Excel Cheatsheet",
         "Link" : "https://excelexposure.com/excel-shortcuts-cheat-sheet/"
     },
     {
-        "id" : "20",
+        "id" : "24",
         "Domain" : "Kotlin cheatsheet",
         "Link" : "https://blog.kotlin-academy.com/kotlin-cheat-sheet-1137588c75a"
     },
     {
-        "id" : "21",
+        "id" : "25",
         "Domain" : "Swift CheatSheet for (OOPS)",
         "Link" : "https://weimenglee.blogspot.com/2014/11/swift-cheat-sheets-download-today.html?m=1"
 
     },
     {
-        "id"  : "22",
+        "id"  : "26",
         "Domain" : "Command line Cheatsheet",
         "Link" : "https://www.git-tower.com/learn/cheat-sheets/cli/"
     },
@@ -151,24 +151,98 @@
         "Link" : "https://courses.cs.washington.edu/courses/cse154/19su/resources/assets/cheatsheets/node-cheatsheet.pdf"
     },
     {
-        "id"  : "27",
+        "id":"27",
+        "Domain":"Jenkins CheatSheet",
+        "Link":"https://www.edureka.co/blog/cheatsheets/jenkins-cheat-sheet/"
+    },
+    {
+        "id":"28",
+        "Domain":"UI/UX CheatSheet",
+        "Link":"https://zerotomastery.io/cheatsheets/ui-ux-design-cheat-sheet/"
+    },
+    {
+        "id":"29",
+        "Domain":"Bootstrap CheatSheet",
+        "Link":"https://hackerthemes.com/bootstrap-cheatsheet/"
+    },
+    {
+        "id":"30",
+        "Domain":"UI/UX CheatSheet",
+        "Link":"https://education.github.com/git-cheat-sheet-education.pdf"
+    },
+    {
+        "id":"31",
+        "Domain":"Angular CheatSheet",
+        "Link":"https://www.interviewbit.com/angular-cheat-sheet/"
+    },
+    {
+        "id":"32",
+        "Domain":"RESTful API CheatSheet",
+        "Link":"https://devhints.io/rest-api"
+    },
+    {
+        "id":"33",
+        "Domain":"Cassandra Apache CheatSheet",
+        "Link":"https://www.baeldung.com/cassandra-query-cheat-sheet"
+    },
+    {
+        "id":"34",
+        "Domain":"Data Structure and Algorithms CheatSheet",
+        "Link":"https://www.geeksforgeeks.org/dsa-sheet-by-love-babbar/"
+    },
+    {
+        "id":"35",
+        "Domain":"Machine Algorithms CheatSheet",
+        "Link":"https://www.datacamp.com/cheat-sheet/machine-learning-cheat-sheet"
+    },
+    {
+        "id":"36",
+        "Domain":"Data Science CheatSheet",
+        "Link":"https://medium.com/@anushka.datascoop/101-data-science-cheat-sheets-ml-dl-scraping-python-r-sql-maths-statistics-ef30b4d786eb"
+    },
+    {
+        "id":"37",
+        "Domain":"Terraform CheatSheet",
+        "Link":"https://acloudguru.com/blog/engineering/the-ultimate-terraform-cheatsheet"
+    },
+    {
+        "id":"38",
+        "Domain":"Terraform CheatSheet",
+        "Link":"https://acloudguru.com/blog/engineering/the-ultimate-terraform-cheatsheet"
+    },
+    {
+        "id":"39",
+        "Domain":"GoLang CheatSheet",
+        "Link":"https://devhints.io/go"
+    },
+    {
+        "id":"40",
+        "Domain":"Vim CheatSheet",
+        "Link":"https://devhints.io/vim"
+    },
+    {
+        "id":"41",
+        "Domain":"DevOps GitLab CI CheatSheet",
+        "Link":"https://medium.com/open-devops-academy/cheat-sheet-for-devops-gitlab-ci-yml-gitlab-2ffbf0c4f7ac"
+    },
+    {
+        "id"  : "42",
         "Domain" : "Express.js",
         "Link" : "https://devhints.io/express"
     },
     {
-        "id"  : "28",
+        "id"  : "43",
         "Domain" : "SEO cheat sheet for developers",
         "Link" : "https://d2v4zi8pl64nxt.cloudfront.net/seo-cheat-sheet.pdf"
     },
     {
-        "id"  : "29",
+        "id"  : "44",
         "Domain" : "Julia",
         "Link" : "https://juliadocs.github.io/Julia-Cheat-Sheet/"
     },
     {
-        "id"  : "30",
+        "id"  : "45",
         "Domain" : "MATLAB",
         "Link" : "https://www.cs.cmu.edu/~tom/10601_fall2012/recitations/matlab_quickref.pdf"
     }
-
-    ]
+]
