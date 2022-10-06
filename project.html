@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>JSON Test</title>
+    <title>Project Testing</title>
 </head>
 <body>
     <div id="myData"></div>
     <script>
-        fetch('jobs.json')
+        fetch("jobs.json")
             .then(function (jobs) {
                 return jobs.json();
             })
@@ -23,7 +23,7 @@
             var mainContainer = document.getElementById("myData");
             for (var i = 0; i < data.length; i++) {
                 var div = document.createElement("div");
-                div.innerHTML = 'Job Name:  ' + data[i].Job-Role + ' ' + data[i].Job-Description;
+                div.innerHTML = 'Job Name:  ' + data[i].JobRole + ' ' + data[i].JobDescription;
                 mainContainer.appendChild(div);
             }
         }

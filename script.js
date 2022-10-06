@@ -1,4 +1,4 @@
-fetch("jobs.json")
+fetch("http://192.168.29.27:8767")
   .then(function (response) {
     return jobs.json();
   })
