@@ -188,5 +188,30 @@
         "emoji-id": "40",   
         "emoji":  "⛴️",
         "emoji-name": "Ferry"
+    },
+    {
+        "emoji-id": "41",   
+        "emoji":  "😺",
+        "emoji-name": "Grinning Cat"
+    },
+    {
+        "emoji-id": "42",   
+        "emoji":  "😽",
+        "emoji-name": "Kissing Cat"
+    },
+    {
+        "emoji-id": "43",   
+        "emoji":  "😹",
+        "emoji-name": "Laughing Cat"
+    },
+    {
+        "emoji-id": "44",   
+        "emoji":  "😿",
+        "emoji-name": "Crying Cat"
+    },
+    {
+        "emoji-id": "45",   
+        "emoji":  "🙀",
+        "emoji-name": "Weary Cat"
     }
 ]
