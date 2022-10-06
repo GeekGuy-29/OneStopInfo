@@ -44,6 +44,12 @@ Ya ya I know, you are very confused, buddy! I got you <3
 
 ###               **HACKTOBERFEST 2022**
 
+<p align="center">
+    <a href="https://hacktoberfest.digitalocean.com/">
+      <img src="https://pbs.twimg.com/profile_images/1567906020831150081/oJ7mKaaj_400x400.jpg" width=300px>
+    </a>
+</p>  
+
 ### What is HacktoberFest?
    ####  DigitalOcean Hacktoberfest is an annual celebration encouraging open source contributions during the month of October. We all use and depend on open source to power our digital world. 
    ####  **Rules**
@@ -54,11 +60,7 @@ Ya ya I know, you are very confused, buddy! I got you <3
   ####  [HacktoberFest Official Website](https://hacktoberfest.com/)
 
   
-<p align="center">
-    <a href="https://hacktoberfest.digitalocean.com/">
-      <img src="https://pbs.twimg.com/profile_images/1567906020831150081/oJ7mKaaj_400x400.jpg" width=200px>
-    </a>
-</p>  
+
   
 
 ## Suggestion
