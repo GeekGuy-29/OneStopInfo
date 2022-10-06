@@ -107,28 +107,48 @@
     {
         "id" : "22",
         "Domain" : "Microsoft word Cheatsheet",
-        "Link" : "https://in.pinterest.com/pin/10203536646163666/",
+        "Link" : "https://in.pinterest.com/pin/10203536646163666/"
     },
     {
         "id" : "23",
         "Domain" : "Microsoft Excel Cheatsheet",
-        "Link" : "https://excelexposure.com/excel-shortcuts-cheat-sheet/",
+        "Link" : "https://excelexposure.com/excel-shortcuts-cheat-sheet/"
     },
     {
         "id" : "24",
         "Domain" : "Kotlin cheatsheet",
-        "Link" : "https://blog.kotlin-academy.com/kotlin-cheat-sheet-1137588c75a",
+        "Link" : "https://blog.kotlin-academy.com/kotlin-cheat-sheet-1137588c75a"
     },
     {
         "id" : "25",
         "Domain" : "Swift CheatSheet for (OOPS)",
-        "Link" : "https://weimenglee.blogspot.com/2014/11/swift-cheat-sheets-download-today.html?m=1",
+        "Link" : "https://weimenglee.blogspot.com/2014/11/swift-cheat-sheets-download-today.html?m=1"
 
     },
     {
         "id"  : "26",
         "Domain" : "Command line Cheatsheet",
-        "Link" : "https://www.git-tower.com/learn/cheat-sheets/cli/",
+        "Link" : "https://www.git-tower.com/learn/cheat-sheets/cli/"
+    },
+    {
+        "id"  : "23",
+        "Domain" : "Microservices",
+        "Link" : "https://cheatsheetseries.owasp.org/cheatsheets/Microservices_security.html"
+    },
+    {
+        "id"  : "24",
+        "Domain" : "iOS 16 cheat sheet",
+        "Link" : "https://www.techrepublic.com/article/ios-16-cheat-sheet/"
+    },
+    {
+        "id"  : "25",
+        "Domain" : "jQuery",
+        "Link" : "https://makeawebsitehub.com/jquery-mega-cheat-sheet/"
+    },
+    {
+        "id"  : "26",
+        "Domain" : "Node.js",
+        "Link" : "https://courses.cs.washington.edu/courses/cse154/19su/resources/assets/cheatsheets/node-cheatsheet.pdf"
     },
     {
         "id":"27",
@@ -204,5 +224,25 @@
         "id":"41",
         "Domain":"DevOps GitLab CI CheatSheet",
         "Link":"https://medium.com/open-devops-academy/cheat-sheet-for-devops-gitlab-ci-yml-gitlab-2ffbf0c4f7ac"
+    },
+    {
+        "id"  : "42",
+        "Domain" : "Express.js",
+        "Link" : "https://devhints.io/express"
+    },
+    {
+        "id"  : "43",
+        "Domain" : "SEO cheat sheet for developers",
+        "Link" : "https://d2v4zi8pl64nxt.cloudfront.net/seo-cheat-sheet.pdf"
+    },
+    {
+        "id"  : "44",
+        "Domain" : "Julia",
+        "Link" : "https://juliadocs.github.io/Julia-Cheat-Sheet/"
+    },
+    {
+        "id"  : "45",
+        "Domain" : "MATLAB",
+        "Link" : "https://www.cs.cmu.edu/~tom/10601_fall2012/recitations/matlab_quickref.pdf"
     }
-    ]
+]
