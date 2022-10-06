@@ -67,8 +67,8 @@ Ya ya I know, you are very confused, buddy! I got you <3
  
    This project, being open-source will always be open for valuable suggestions, which would enhance the overall  quality.
 
- ### if you have any question feel free to ask me.I will be happ to help you
- ### If you like the repo or the project, don't forget to give it a ⭐!
+ #### If you have any question feel free to ask me.I will be happy to help you
+ ### And ya If you liked the repo or the project, don't forget to give it a ⭐!
  ### Happy Hacking 💻 🧑‍🎓!
 
 
