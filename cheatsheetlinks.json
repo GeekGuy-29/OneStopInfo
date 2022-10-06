@@ -80,18 +80,33 @@
         "Link":"https://cheatography.com/ashlyn-black/cheat-sheets/c-reference/"
     },
     {
-        "id":"16",
+        "id":"17",
         "Domain":"Backend (Node and Express)",
         "Link":"https://courses.cs.washington.edu/courses/cse154/19su/resources/assets/cheatsheets/node-cheatsheet.pdf"
     },
     {
-        "id":"17",
+        "id":"18",
         "Domain":"Python Complete cheatsheet for Data Science",
         "Link":"https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf"
     },
     {
-        "id":"18",
+        "id":"19",
+        "Domain":"HTML5 interactive CheatSheet",
+        "Link":"https://htmlcheatsheet.com/"
+    },
+    {
+        "id":"20",
+        "Domain":"CSS3 interactive CheatSheet",
+        "Link":"https://htmlcheatsheet.com/css/"
+    },
+    {
+        "id":"21",
+        "Domain":"JavaScript interactive CheatSheet",
+        "Link":"https://htmlcheatsheet.com/js/"
+    },
+    {
+        "id":"22",
         "Domain":"Rust Programming Language",
         "Link":"https://learnxinyminutes.com/docs/rust/"
-    }    
+    }
 ]
