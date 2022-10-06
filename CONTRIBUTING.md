@@ -56,6 +56,8 @@ Create a separate branch for contribution and try to use same name of branch as 
 ```sh
 # To switch from one folder to other
 $ git checkout Branch_Name
+          or
+$ git switch Branch_Name
 ```
 
 5. To add changes to the branch use the following command
