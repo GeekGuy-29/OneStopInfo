@@ -52,10 +52,14 @@ Ya ya I know, you are very confused, buddy! I got you <3
    3.  If a PR has a label that contains the word spam in it, the PR will not be counted. Also, if a participant has 2 or more spam PRs, they'll be disqualified            from Hacktoberfest.
    4.  If a PR has a label that contains the word invalid, it will not be counted. The exception for this is if the PR also has the label hacktoberfest-accepted.
   ####  [HacktoberFest Official Website](https://hacktoberfest.com/)
-    
-  <div align = center>
-  <img src =(https://pbs.twimg.com/profile_images/1567906020831150081/oJ7mKaaj_400x400.jpg)/>
-  </div>
+
+  
+<p align="center">
+    <a href="https://hacktoberfest.digitalocean.com/">
+      <img src="https://pbs.twimg.com/profile_images/1567906020831150081/oJ7mKaaj_400x400.jpg" width=900px>
+    </a>
+</p>  
+  
 
 ## Suggestion
  
