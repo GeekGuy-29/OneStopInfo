@@ -18,5 +18,22 @@
         "id":"4",
         "Domain":"Software Engineering Tips and Tricks",
         "Link":"https://www.freecodecamp.org/news/tag/blog/"
+    },
+    {
+        "id":"5",
+        "Domain":"Jenkins",
+        "Link":"https://www.youtube.com/watch?v=f4idgaq2VqA"
+    },
+    {
+        "id":"6",
+        "Domain":"Web3 Beginner Friendly Guide",
+        "Link":"https://www.youtube.com/watch?v=hDfkyF8U-pw&t=9s"
+    },
+    {
+        "id":"8",
+        "Domain":"UI/UX Design",
+        "Link":"https://www.youtube.com/watch?v=YiLUYf4HDh4&t=1682s"
     }
+
+    
 ]
