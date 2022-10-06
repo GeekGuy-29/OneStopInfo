@@ -1,0 +1,84 @@
+
+
+[
+    {
+        "id": "1",
+        "Domain": "Linux",
+        "YoutubeLink": "https://youtu.be/Wgi-OfbP2Gw"
+    },
+    {
+        "id": "2",
+        "Domain": "Python",
+        "YoutubeLink": "https://youtu.be/_uQrJ0TkZlc"
+    },
+    {
+        "id":"3",
+        "Domain":"Command Line",
+        "YoutubeLink": "https://youtu.be/KxjRdgt8lyc"
+    },
+    {
+        "id":"4",
+        "Domain":"Software Engineering",
+        "YoutubeLink":"https://youtu.be/uJpQlyT_CK4"
+    },
+    {
+        "id":"5",
+        "Domain":"VS Code",
+        "YoutubeLink":"https://youtu.be/UTQp6mvhb0Y"
+    },
+    {
+        "id":"6",
+        "Domain":"Hypertext Markup Language (HTML)",
+        "YoutubeLink":"https://youtu.be/qz0aGYrrlhU"
+    },
+    {
+        "id":"7",
+        "Domain":"Cascading style sheet (CSS)",
+        "YoutubeLink":"https://youtu.be/Edsxf_NBFrw"
+    },
+    {
+        "id":"8",
+        "Domain":"Javascript",
+        "YoutubeLink":"https://youtu.be/W6NZfCO5SIk"
+    },
+    {
+        "id":"9",
+        "Domain":"Javascript String, Array and Object Methods ",
+        "YoutubeLink":"https://youtu.be/nlRtAF8Gu0A"
+    },
+    {
+        "id":"10",
+        "Domain":"Git",
+        "YoutubeLink":"https://youtu.be/RGOj5yH7evk"
+    },
+    {
+        "id":"11",
+        "Domain":"React.js",
+        "YoutubeLink":"https://youtu.be/Ke90Tje7VS0"
+    },
+    {
+        "id":"12",
+        "Domain":"Bootstrap",
+        "YoutubeLink":"https://youtu.be/Jyvffr3aCp0"
+    },
+    {
+        "id":"13",
+        "Domain":"Dart",
+        "YoutubeLink":"https://youtu.be/Ej_Pcr4uC2Q"
+    },
+    {
+        "id":"14",
+        "Domain":"Java Programming",
+        "YoutubeLink":"https://youtu.be/eIrMbAQSU34"
+    },
+    {
+        "id":"15",
+        "Domain":"C Programming",
+        "YoutubeLink":"https://youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR"
+    },
+    {
+        "id":"16",
+        "Domain":"Backend (Node and Express)",
+        "YoutubeLink":"https://youtu.be/E8vYlkx9EQw"
+    }
+]

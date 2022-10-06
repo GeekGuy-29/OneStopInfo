@@ -33,6 +33,50 @@
         "id": "7",
         "JobRole": "Data Engineer",
         "JobDescription": "Data Engineer role is to develop and maintain large and complex databases as well as large-scale data processing systems. As a key member of analytics or engineering teams, a data engineer must be comfortable working collaboratively. This role requires comprehensive knowledge of query and database skills."
+    },
+    {
+        "id": "8",
+        "JobRole": "Android Application Developer",
+        "JobDescription": ""
+    },
+    {
+        "id": "9",
+        "JobRole": "iOS Application Developer",
+        "JobDescription": "An iOS developer is responsible for developing applications for mobile devices powered by Apple's iOS operating system."
+    },
+    {
+        "id": "10",
+        "JobRole": "Back-end developers are the experts who build and maintain the mechanisms that process data and perform actions on websites. Back-end developers are involved in data storage, security, and other server-side functions that you cannot see.",
+        "JobDescription": ""
+    },
+    {
+        "id": "11",
+        "JobRole": "Database Engineer",
+        "JobDescription": "Database engineers design and maintain databases, increase data storage capacity, and troubleshoot database functionality issues. They also review database performance and user reports."
+    },
+    {
+        "id": "12",
+        "JobRole": "Project Manager",
+        "JobDescription": "Project manager manages the production of the required deliverables, plans and monitors the project, adopts any delegation and use of project assurance roles within agreed reporting structures, prepares and maintains project, and execute plans as required."
+    },
+    {
+        "id": "13",
+        "JobRole": "Search Engine Optimization",
+        "JobDescription": "SEO specialist discover content online, ranking higher in search engines can lead to an increase in traffic to a website"
+    },
+    {
+        "id": "14",
+        "JobRole": "Digital Marketing",
+        "JobDescription": "A Digital Marketer uses digital channels to reach customers, build brand awareness, and promote products and services"
+    },
+    {
+        "id": "15",
+        "JobRole": "Sales Executive",
+        "JobDescription": "Sales executives promote products and services to clients and negotiate contracts with the aim of maximising profits. Salaries are often enhanced by a good benefits package, including commission-based earnings, bonuses, lunch allowances and sometimes health insurance and a company car."
+    },
+    {
+        "id": "16",
+        "JobRole": "Bidder",
+        "JobDescription": "Bidding jobs as a construction professional is the act of meeting with potential customers and clients to give them a proposal for completing their project. Bidding is also when subcontractors meet with general contractors to showcase their skills and see if they can be considered for part of a project."
     }
-    
 ]

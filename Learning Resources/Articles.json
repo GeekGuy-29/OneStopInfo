@@ -1,0 +1,74 @@
+
+
+[
+    {
+        "id": "1",
+        "Domain": "Linux",
+        "articleLink": "https://opensource.com/resources/linux"
+    },
+    {
+        "id": "2",
+        "Domain": "Python",
+        "articleLink": "https://www.infoworld.com/article/3204016/what-is-python-powerful-intuitive-programming.html"
+    },
+    {
+        "id":"4",
+        "Domain":"Software Engineering",
+        "articleLink":"https://www.coursera.org/articles/software-engineer"
+    },
+    {
+        "id":"5",
+        "Domain":"VS Code",
+        "articleLink":"https://www.educba.com/what-is-visual-studio-code/"
+    },
+    {
+        "id":"6",
+        "Domain":"Hypertext Markup Language (HTML)",
+        "articleLink":"https://www.hostinger.com/tutorials/what-is-html"
+    },
+    {
+        "id":"7",
+        "Domain":"Cascading style sheet (CSS)",
+        "articleLink":"https://www.joshwcomeau.com/tutorials/css/"
+    },
+    {
+        "id":"8",
+        "Domain":"Javascript",
+        "articleLink":"https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics"
+    },
+    {
+        "id":"10",
+        "Domain":"Git",
+        "articleLink":"https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/"
+    },
+    {
+        "id":"11",
+        "Domain":"React.js",
+        "articleLink":"https://www.simplilearn.com/tutorials/reactjs-tutorial/what-is-reactjs"
+    },
+    {
+        "id":"12",
+        "Domain":"Bootstrap",
+        "articleLink":"https://medium.com/free-code-camp/learn-bootstrap-4-in-30-minute-by-building-a-landing-page-website-guide-for-beginners-f64e03833f33"
+    },
+    {
+        "id":"13",
+        "Domain":"Dart",
+        "articleLink":"https://www.toptal.com/dart/dartlang-guide-for-csharp-java-devs"
+    },
+    {
+        "id":"14",
+        "Domain":"Java Programming",
+        "articleLink":"https://developer.mozilla.org/en-US/docs/Glossary/Java"
+    },
+    {
+        "id":"15",
+        "Domain":"C Programming",
+        "articleLink":"https://www.simplilearn.com/c-programming-article"
+    },
+    {
+        "id":"16",
+        "Domain":"Backend (Node and Express)",
+        "articleLink":"https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction"
+    }
+]
