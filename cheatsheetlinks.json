@@ -18,5 +18,35 @@
         "id":"4",
         "Domain":"Software Engineering Tips and Tricks",
         "Link":"https://www.freecodecamp.org/news/tag/blog/"
+    },
+    {
+        "id":"5",
+        "Domain":"VS Code Shortcuts",
+        "Link":"https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf"
+    },
+    {
+        "id":"6",
+        "Domain":"Hypertext Markup Language (HTML)",
+        "Link":"https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf"
+    },
+    {
+        "id":"7",
+        "Domain":"Cascading style sheet (CSS)",
+        "Link":"https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf"
+    },
+    {
+        "id":"8",
+        "Domain":"Javascript",
+        "Link":"https://htmlcheatsheet.com/js/"
+    },
+    {
+        "id":"9",
+        "Domain":"Javascript String, Array and Object Methods ",
+        "Link":"https://cheatography.com/anas-95/cheat-sheets/javascript-object-methods/"
+    },
+    {
+        "id":"10",
+        "Domain":"Git",
+        "Link":"https://education.github.com/git-cheat-sheet-education.pdf"
     }
 ]
