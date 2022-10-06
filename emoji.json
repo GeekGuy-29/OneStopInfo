@@ -103,5 +103,50 @@
         "emoji-id": "23",   
         "emoji":  "🤍",
         "emoji-name": "White Heart"
+    },
+    {
+        "emoji-id": "24",   
+        "emoji":  "🔴",
+        "emoji-name": "Red Circle"
+    },
+    {
+        "emoji-id": "25",   
+        "emoji":  "🟠",
+        "emoji-name": "Orange Circle"
+    },
+    {
+        "emoji-id": "26",   
+        "emoji":  "🟡",
+        "emoji-name": "Yellow Circle"
+    },
+    {
+        "emoji-id": "27",   
+        "emoji":  "🟢",
+        "emoji-name": "Green Circle"
+    },
+    {
+        "emoji-id": "28",   
+        "emoji":  "🔵",
+        "emoji-name": "Blue Circle"
+    },
+    {
+        "emoji-id": "29",   
+        "emoji":  "🟣",
+        "emoji-name": "Purple Circle"
+    },
+    {
+        "emoji-id": "30",   
+        "emoji":  "🟤",
+        "emoji-name": "Brown Circle"
+    },
+    {
+        "emoji-id": "31",   
+        "emoji":  "⚫",
+        "emoji-name": "Black Circle"
+    },
+    {
+        "emoji-id": "31",   
+        "emoji":  "⚪",
+        "emoji-name": "White Circle"
     }
 ]
