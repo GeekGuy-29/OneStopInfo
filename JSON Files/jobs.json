@@ -158,8 +158,10 @@
         "id": "32",
         "JobRole": "Full-stack developer",
         "JobDescription": "A Full-Stack developer is a professional responsible for working on both front-end and back-end development processes. They design, develop, and maintain fully-fledged and functioning platforms with databases or servers. These servers do not need other third-party applications to build an entire system from scratch."
-    }
-    
-    
-
+    },
+     {
+        "id": "33",
+        "JobRole": "Back-end developer",
+        "JobDescription": "Back-end developers are the experts who build and maintain the mechanisms that process data and perform actions on websites."
+     }
 ]
