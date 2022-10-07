@@ -139,4 +139,53 @@
       "Origin": "Ibza",
       "MoreInfoAt": "https://www.akc.org/dog-breeds/ibizan-hound/"
     }
+    {
+      "DogBreed": "Australian Stumpy Tail Cattle",
+      "LifeSpan":  "15 years",
+      "Speciality": "loyal / courageous / devoted",
+      "Origin": "Australia",
+      "MoreInfoAt": "https://www.pedigree.com.ph/dog-breeds/australian-stumpy-tail-cattle-dog"
+    }
+    {
+      "DogBreed": "Australian Terrier",
+      "LifeSpan":  "12-15 years",
+      "Speciality": "even tempered / courageous / companionable",
+      "Origin": "Australia",
+      "MoreInfoAt": "https://www.pedigree.com.ph/dog-breeds/australian-terrier"
+    }
+    {
+      "DogBreed": "Basset Hound",
+      "LifeSpan":  "10-12 years",
+      "Speciality": "tenacious / sweet-tempered / friendly",
+      "Origin": "France",
+      "MoreInfoAt": "https://www.pedigree.com.ph/dog-breeds/basset-hound"
+    }
+    {
+      "DogBreed": "Beagle",
+      "LifeSpan":  "12-15 years",
+      "Speciality": "amiable / intelligent / excitable",
+      "Origin": "United Kingdom",
+      "MoreInfoAt": "https://www.pedigree.com.ph/dog-breeds/beagle"
+    }
+    {
+      "DogBreed": "Border Collie",
+      "LifeSpan":  "10-17 years",
+      "Speciality": "keen / energetic / athletic",
+      "Origin": "United Kingdom",
+      "MoreInfoAt": "https://www.pedigree.com.ph/dog-breeds/border-collie"
+    }
+    {
+      "DogBreed": "Chinese Crested",
+      "LifeSpan":  "13-15 years",
+      "Speciality": "lively / affectionate / playful",
+      "Origin": "China",
+      "MoreInfoAt": "https://www.pedigree.com.ph/dog-breeds/chinese-crested-dog"
+    }
+    {
+      "DogBreed": "German Shepherd",
+      "LifeSpan":  "9-13 years",
+      "Speciality": "intelligent / stubborn / protective",
+      "Origin": "Germany",
+      "MoreInfoAt": "https://www.pedigree.com.ph/dog-breeds/german-shepherd-dog"
+    }
 ]
