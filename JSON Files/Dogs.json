@@ -103,5 +103,12 @@
       "Speciality": "reserved / independent / loyal",
       "Origin": "Turkey",
       "MoreInfoAt": "https://www.akc.org/dog-breeds/anatolian-shepherd-dog/"
+    },
+    {
+      "DogBreed": "Pitbull",
+      "LifeSpan":  "10-14 years",
+      "Speciality": "stubborn / attitude / loyal",
+      "Origin": "United States",
+      "MoreInfoAt": "https://dogtime.com/dog-breeds/american-pit-bull-terrier#/slide/1"
     }
 ]
