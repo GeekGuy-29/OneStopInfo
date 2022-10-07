@@ -6,4 +6,25 @@
         "Origin": "Newfoundland",
         "MoreInfoAt": "https://www.akc.org/dog-breeds/labrador-retriever/"
     },
+    {
+      "DogBreed": "Affenpinscher",
+      "LifeSpan":  "12-15 years",
+      "Speciality": "Confident/Famously funny/Fearless",
+      "Origin": "Germany",
+      "MoreInfoAt": "https://www.akc.org/dog-breeds/affenpinscher/"
+    },
+    {
+      "DogBreed": "Afghan Hound",
+      "LifeSpan":  "12-18 years",
+      "Speciality": "independent/Sweet",
+      "Origin": "Afghanistan",
+      "MoreInfoAt": "https://www.akc.org/dog-breeds/afghan-hound/"
+    },
+    {
+      "DogBreed": "Airedale Terrier",
+      "LifeSpan":  "11-14 years",
+      "Speciality": "Friendly/Courageous/Clever",
+      "Origin": "England",
+      "MoreInfoAt": "https://www.akc.org/dog-breeds/airedale-terrier/"
+    }
 ]
