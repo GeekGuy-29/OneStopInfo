@@ -118,6 +118,48 @@
         "id": "24",
         "JobRole": "Site Engineer",
         "JobDescription": " The site engineer's responsibilities include managing different parts of construction projects, supervising crew members, preparing estimates for time and material costs, completing quality assurance, observing health and safety standards, and compiling reports for different stakeholders."
+    },
+    {
+        "id": "25",
+        "JobRole": " Design Evangelist",
+        "JobDescription": "The path to a CEO’s office needs to be through engineering and design”. If you believe in the above quote and have an eye for detail and a relentless pursuit to churn out great designs, then this role will excite you"
+    },
+    {
+        "id": "26",
+        "JobRole": "Junior Blockchain Developer  ",
+        "JobDescription": "Build high-quality software For ethereum / hyperledger in Go / Solidity / JavaScript / Python on a daily basis. Make the crypto software ."
+    },
+    {
+        "id": "27",
+        "JobRole": "Executive- Business Development  ",
+        "JobDescription": "To read the tenders documents and apply for that; Maintain good relationship with the clients for getting better business; Prepare / maintain the data of clients & Valuations database for the past projects done by the company; Secondary research and Data Analysis."
+    },
+    {
+        "id": "28",
+        "JobRole": "Data engineer ",
+        "JobDescription": "The role a Data Engineer is to collect data from all sources and apply various method to take out the best possible result."
+    },
+    {
+        "id": "29",
+        "JobRole": " Buisness Analyst",
+        "JobDescription": "A Business Analyst is a professional who works closely with stakeholders to identify goals, develop best practices for data collection, and analyze current processes to determine what can be improved to achieve their desired outcome."
+    },
+    {
+        "id": "30",
+        "JobRole": "Digital manager",
+        "JobDescription": "A Digital Strategy Manager is an executive position. This position is based on a unique set of technological knowledge which directs all departments for digital industry growth."
+    },
+    {
+        "id": "31",
+        "JobRole": "Sofware Developer and Engineer -Test ",
+        "JobDescription": "The Senior Software Development Test Engineer (SDET) helps deliver the quality and performance of large scale, big data, custom hardware multi-platform software products that includes; web, API and mobile application interfaces."
+    },
+    {
+        "id": "32",
+        "JobRole": "Full-stack developer",
+        "JobDescription": "A Full-Stack developer is a professional responsible for working on both front-end and back-end development processes. They design, develop, and maintain fully-fledged and functioning platforms with databases or servers. These servers do not need other third-party applications to build an entire system from scratch."
     }
+    
+    
 
 ]
