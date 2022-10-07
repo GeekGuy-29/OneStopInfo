@@ -173,6 +173,26 @@
         "id": "35",
         "JobRole": "Network Administrator",
         "JobDescription": "Network administrators oversee the operation and maintenance of hardware, software, computer infrastructures, and complete information systems."
+    },
+    {
+        "id": "36",
+        "JobRole": "Backend Developer",
+        "JobDescription": "Back-end developers are the experts who build and maintain the mechanisms that process data and perform actions on websites. Unlike front-end developers, who control everything you can see on a website, back-end developers are involved in data storage, security, and other server-side functions that you cannot see."
+    },
+    {
+        "id": "37",
+        "JobRole": "Android Developer",
+        "JobDescription": "An android developer designs software and applications for Android devices and the Google Play Store. This software developer creates apps used on Android phones and tablets."
+    },
+    {
+        "id": "38",
+        "JobRole": "Data Scientist",
+        "JobDescription": "A data scientist analyses and organises data to determine trends that can influence business decisions. Their methods and IT tools use statistics and machine learning to help collect and process a company's data, such as financial records, sales, prospects and lead generation."
+    },
+    {
+        "id": "39",
+        "JobRole": "iOS Developer",
+        "JobDescription": "An iOS developer is responsible for developing applications for mobile devices powered by Apple's iOS operating system. Ideally, a good iOS developer is proficient with one of the two programming languages for this platform: Objective-C or Swift."
     }
     
     
