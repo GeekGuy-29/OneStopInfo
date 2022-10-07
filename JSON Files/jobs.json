@@ -158,6 +158,21 @@
         "id": "32",
         "JobRole": "Full-stack developer",
         "JobDescription": "A Full-Stack developer is a professional responsible for working on both front-end and back-end development processes. They design, develop, and maintain fully-fledged and functioning platforms with databases or servers. These servers do not need other third-party applications to build an entire system from scratch."
+    },
+    {
+        "id": "33",
+        "JobRole": "Web Designer",
+        "JobDescription": "Web designers develop, design, and code websites and web pages, many of which include text, audio, images, graphics, and video clips."
+    },
+    {
+        "id": "34",
+        "JobRole": "Chief Technology Officer",
+        "JobDescription": "A chief technology officer (CTO) is a senior executive who is in charge of overseeing the whole information technology department and integrating business goals and requirements into IT planning and operations."
+    },
+    {
+        "id": "35",
+        "JobRole": "Network Administrator",
+        "JobDescription": "Network administrators oversee the operation and maintenance of hardware, software, computer infrastructures, and complete information systems."
     }
     
     
