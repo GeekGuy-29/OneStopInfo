@@ -329,6 +329,26 @@
         "id"  : "62",
         "Domain" : "Bash",
         "Link" : "https://devhints.io/bash"
+    },
+    {
+        "id"  : "63",
+        "Domain" : "Keyboard Shortcuts",
+        "Link" : "https://www.geek-computer.com/wiki/windows-10-keyboard-shortcuts-cheat-sheet"
+    },
+    {
+        "id"  : "64",
+        "Domain" : "Azure Devops Cheatsheet",
+        "Link" : "https://lzone.de/cheat-sheet/Azure%20Devops"
+    },
+    {
+        "id"  : "65",
+        "Domain" : "Microsoft Powerpoint Shortcut Keys",
+        "Link" : "https://support.microsoft.com/en-us/office/use-keyboard-shortcuts-to-create-powerpoint-presentations-ebb3d20e-dcd4-444f-a38e-bb5c5ed180f4"
+    },
+    {
+        "id"  : "66",
+        "Domain" : "Adobe Illustrator Keyboard Shortcuts",
+        "Link" : "https://helpx.adobe.com/in/illustrator/using/default-keyboard-shortcuts.html"
     }
         
 ]
