@@ -284,5 +284,31 @@
         "id"  : "53",
         "Domain" : "STAT301 CheatSheet",
         "Link" : "https://web.stat.tamu.edu/~suhasini/teaching301/cheatsheet.pdf"
+    },
+    {
+        "id"  : "54",
+        "Domain" : "Mongoose",
+        "Link" : "https://mongoosejs.com/docs/guide.html"
+    },
+    {
+        "id"  : "55",
+        "Domain" : "Mongodb",
+        "Link" : "https://www.interviewbit.com/mongodb-cheat-sheet/"
+    },
+    {
+        "id"  : "56",
+        "Domain" : "C++ Programming",
+        "Link" : "https://hackr.io/blog/cpp-cheat-sheet-pdf"
+    },
+    {
+        "id"  : "57",
+        "Domain" : "PostgreSQL",
+        "Link" : "https://www.postgresqltutorial.com/postgresql-cheat-sheet/"
+    },
+    {
+        "id"  : "58",
+        "Domain" : "Postman",
+        "Link" : "https://postman-quick-reference-guide.readthedocs.io/en/latest/cheatsheet.html"
     }
+        
 ]
