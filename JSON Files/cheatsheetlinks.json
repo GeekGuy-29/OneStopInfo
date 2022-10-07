@@ -330,5 +330,10 @@
         "Domain" : "Bash",
         "Link" : "https://devhints.io/bash"
     }
+     {
+        "id"  : "63",
+        "Domain" : "Operating System",
+        "Link" : "https://www.codecademy.com/learn/fundamentals-of-operating-systems/modules/introduction-to-operating-systems/cheatsheet"
+    }
         
 ]
