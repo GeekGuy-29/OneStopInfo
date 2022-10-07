@@ -103,5 +103,40 @@
       "Speciality": "reserved / independent / loyal",
       "Origin": "Turkey",
       "MoreInfoAt": "https://www.akc.org/dog-breeds/anatolian-shepherd-dog/"
+    },
+    {
+      "DogBreed": "Otterhound",
+      "LifeSpan":  "10-13 years",
+      "Speciality": "even-tempered / amiable / boisterous",
+      "Origin": "England",
+      "MoreInfoAt": "https://www.akc.org/dog-breeds/otterhound/"
+    },
+    {
+      "DogBreed": "Bergamasco Sheepdog",
+      "LifeSpan":  "13-15 years",
+      "Speciality": "independent / intelligent / sociable",
+      "Origin": "Persia",
+      "MoreInfoAt": "https://www.akc.org/dog-breeds/bergamasco-sheepdog/"
+    },
+    {
+      "DogBreed": "Polish Lowland Sheepdog",
+      "LifeSpan":  "12-14 years",
+      "Speciality": "confident / lively / clever",
+      "Origin": "Poland",
+      "MoreInfoAt": "https://www.akc.org/dog-breeds/polish-lowland-sheepdog/"
+    },
+    {
+      "DogBreed": "Skye Terrier",
+      "LifeSpan":  "12-14 years",
+      "Speciality": "courageous / good-tempered / canny",
+      "Origin": "Scotland",
+      "MoreInfoAt": "https://www.akc.org/dog-breeds/skye-terrier/"
+    },
+    {
+      "DogBreed": "Ibizan Hound",
+      "LifeSpan":  "11-14 years",
+      "Speciality": "family-oriented / even-tempered / polite",
+      "Origin": "Ibza",
+      "MoreInfoAt": "https://www.akc.org/dog-breeds/ibizan-hound/"
     }
 ]
