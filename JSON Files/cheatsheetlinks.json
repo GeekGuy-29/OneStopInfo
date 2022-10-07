@@ -309,6 +309,26 @@
         "id"  : "58",
         "Domain" : "Postman",
         "Link" : "https://postman-quick-reference-guide.readthedocs.io/en/latest/cheatsheet.html"
+    },
+    {
+        "id"  : "59",
+        "Domain" : "Vue",
+        "Link" : "https://devhints.io/vue"
+    },
+    {
+        "id"  : "60",
+        "Domain" : "Tailwind",
+        "Link" : "https://nerdcave.com/tailwind-cheat-sheet"
+    },
+    {
+        "id"  : "61",
+        "Domain" : "Redis",
+        "Link" : "https://lzone.de/cheat-sheet/Redis"
+    },
+    {
+        "id"  : "62",
+        "Domain" : "Bash",
+        "Link" : "https://devhints.io/bash"
     }
         
 ]
