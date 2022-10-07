@@ -104,4 +104,11 @@
       "Origin": "Turkey",
       "MoreInfoAt": "https://www.akc.org/dog-breeds/anatolian-shepherd-dog/"
     }
+  {
+      "DogBreed": "Golden Retriever",
+      "LifeSpan":  "10-12 years",
+      "Speciality": "playful / intelligent / affectionate",
+      "Origin": "Scotland United Kingdom",
+      "MoreInfoAt": "https://www.akc.org/dog-breeds/golden-retriever/"
+    }
 ]
