@@ -213,5 +213,55 @@
         "emoji-id": "45",   
         "emoji":  "🙀",
         "emoji-name": "Weary Cat"
+    }  ,
+    {
+        "emoji-id": "46",   
+        "emoji":  "😨",
+        "emoji-name": "Fearful Face"
+    },
+    {
+        "emoji-id": "47",   
+        "emoji":  "😈",
+        "emoji-name": "Smiling Face With Horns"
+    },
+    {
+        "emoji-id": "48",   
+        "emoji":  "🤪",
+        "emoji-name": "Zanny Face"
+    },
+    {
+        "emoji-id": "49",   
+        "emoji":  "🧐",
+        "emoji-name": "Face with monocle"
+    },
+    {
+        "emoji-id": "50",   
+        "emoji":  "🤏",
+        "emoji-name": "Pinched hand"
+    },
+    {
+        "emoji-id": "51",   
+        "emoji":  "🤙",
+        "emoji-name": "Call Me Hand"
+    },
+    {
+        "emoji-id": "52",   
+        "emoji":  "🤳",
+        "emoji-name": "Selfie hand"
+    },
+    {
+        "emoji-id": "53",   
+        "emoji":  "👣",
+        "emoji-name": "Footprint"
+    },
+    {
+        "emoji-id": "54",   
+        "emoji":  "🧔‍♀‍",
+        "emoji-name": "Bearded woman"
+    },
+    {
+        "emoji-id": "55",   
+        "emoji":  "🧑‍🎓",
+        "emoji-name": "Student"
     }
 ]
