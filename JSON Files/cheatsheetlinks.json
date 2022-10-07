@@ -349,34 +349,55 @@
         "id"  : "66",
         "Domain" : "Adobe Illustrator Keyboard Shortcuts",
         "Link" : "https://helpx.adobe.com/in/illustrator/using/default-keyboard-shortcuts.html"
+
     },
     {
         "id"  : "67",
+        "Domain" : "Ios 16",
+        "Link" : "https://helpx.adobe.com/in/illustrator/using/default-keyboard-shortcuts.html"
+    },
+    {
+        "id"  : "68",
+        "Domain" : "Ios 15",
+        "Link" : "https://helpx.adobe.com/in/illustrator/using/default-keyboard-shortcuts.html"
+    },
+    {
+        "id"  : "69",
+        "Domain" : "Android 10 ",
+        "Link" : "https://helpx.adobe.com/in/illustrator/using/default-keyboard-shortcuts.html"
+    },
+    {
+        "id"  : "70",
+        "Domain" : "Sql",
+        "Link" : "https://helpx.adobe.com/in/illustrator/using/default-keyboard-shortcuts.html"
+    },
+        {
+        "id"  : "71",
         "Domain" : "R Cheatsheet",
         "Link" : "https://www.datacamp.com/cheat-sheet/getting-started-r"
     },
     {
-        "id"  : "68",
+        "id"  : "72",
         "Domain" : "Operating System Cheatsheet",
         "Link" : "https://www.codecademy.com/learn/fundamentals-of-operating-systems/modules/introduction-to-operating-systems/cheatsheet"
     },   
     {
-        "id"  : "69",
+        "id"  : "73",
         "Domain" : "Spyder Keyboard Shortcuts",
         "Link" : "https://keycombiner.com/collections/spyder/"
     },
     {
-        "id"  : "70",
+        "id"  : "74",
         "Domain" : "Figma Keyboard Shortcuts",
         "Link" : "https://usethekeyboard.com/figma/"
     },
     {
-        "id"  : "71",
+        "id"  : "75",
         "Domain" : "AWS CheatSheet",
         "Link" : "https://intellipaat.com/blog/tutorial/amazon-web-services-aws-tutorial/aws-cheat-sheet/"
     },
-     {
-        "id"  : "72",
+    {
+        "id"  : "76",
         "Domain" : "Google Cloud CheatSheet",
         "Link" : "https://googlecloudcheatsheet.withgoogle.com/"
     },
