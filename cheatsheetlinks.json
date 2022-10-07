@@ -259,5 +259,30 @@
         "id"  : "48",
         "Domain" : "JAVA OOP CheatSheet",
         "Link" : "https://www.edureka.co/blog/cheatsheets/java-oop-cheat-sheet/"
+    },
+    {
+        "id"  : "49",
+        "Domain" : "Unsupervised Learning CheatSheet",
+        "Link" : "https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning"
+    },
+    {
+        "id"  : "50",
+        "Domain" : "Deep Learning CheatSheet",
+        "Link" : "https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning"
+    },
+    {
+        "id"  : "51",
+        "Domain" : "Supervised Learning CheatSheet",
+        "Link" : "https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning"
+    },
+    {
+        "id"  : "52",
+        "Domain" : "Descriptive Statistics CheatSheet",
+        "Link" : "https://www.datacamp.com/cheat-sheet/descriptive-statistics-cheat-sheet"
+    },
+    {
+        "id"  : "53",
+        "Domain" : "STAT301 CheatSheet",
+        "Link" : "https://web.stat.tamu.edu/~suhasini/teaching301/cheatsheet.pdf"
     }
 ]
