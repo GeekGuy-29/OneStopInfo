@@ -263,5 +263,10 @@
         "emoji-id": "55",   
         "emoji":  "🧑‍🎓",
         "emoji-name": "Student"
-    }
+    },
+     {
+        "emoji-id": "54",   
+        "emoji":  "🌂",
+        "emoji-name": "Umbrella"
+    },
 ]
