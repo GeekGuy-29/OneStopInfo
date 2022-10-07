@@ -26,5 +26,82 @@
       "Speciality": "Friendly/Courageous/Clever",
       "Origin": "England",
       "MoreInfoAt": "https://www.akc.org/dog-breeds/airedale-terrier/"
+    },
+    {
+      "DogBreed": "Akita",
+      "LifeSpan":  "10-14 years",
+      "Speciality": "Dignified / Courageous / Profoundly Loyal",
+      "Origin": "Japan",
+      "MoreInfoAt": "https://www.akc.org/dog-breeds/akita/"
+    },
+    {
+      "DogBreed": "Alaskan Klee Kai",
+      "LifeSpan":  "13-16 years",
+      "Speciality": "Loyal / Intelligent / Vigilant",
+      "Origin": "Alaska",
+      "MoreInfoAt": "https://www.akc.org/dog-breeds/alaskan-klee-kai/"
+    },
+    {
+      "DogBreed": "Alaskan Malamute",
+      "LifeSpan":  "10-14 years",
+      "Speciality": "Loyal / Playful / Affectionate",
+      "Origin": "Arctic",
+      "MoreInfoAt": "https://www.akc.org/dog-breeds/alaskan-malamute/"
+    },
+    {
+      "DogBreed": "American Bulldog",
+      "LifeSpan":  "10-12 years",
+      "Speciality": "Loyal / Self-confident",
+      "Origin": "United States",
+      "MoreInfoAt": "https://www.akc.org/dog-breeds/american-bulldog/"
+    },
+    {
+      "DogBreed": "American English Coonhound",
+      "LifeSpan":  "11-12 years",
+      "Speciality": "sociable / sweet / mellow",
+      "Origin": "United States",
+      "MoreInfoAt": "https://www.akc.org/dog-breeds/american-english-coonhound/"
+    },
+    {
+      "DogBreed": "American Foxhound",
+      "LifeSpan":  "11-13 years",
+      "Speciality": "independent / easy-going / sweet-tempered",
+      "Origin": "Virginia",
+      "MoreInfoAt": "https://www.akc.org/dog-breeds/american-foxhound/"
+    },
+    {
+      "DogBreed": "American Hairless Terrier",
+      "LifeSpan":  "14-16 years",
+      "Speciality": "alert / curious / energetic",
+      "Origin": "United States",
+      "MoreInfoAt": "https://www.akc.org/dog-breeds/american-hairless-terrier/"
+    },
+    {
+      "DogBreed": "American Leopard Hound",
+      "LifeSpan":  "12-15 years",
+      "Speciality": "intelligent / sociable / energetic",
+      "Origin": "United States",
+      "MoreInfoAt": "https://www.akc.org/dog-breeds/american-leopard-hound/"
+    },
+    {
+      "DogBreed": "American Staffordshire Terrier",
+      "LifeSpan":  "12-16 years",
+      "Speciality": "good-natured / confident / smart",
+      "Origin": "United States",
+      "MoreInfoAt": "https://www.akc.org/dog-breeds/american-staffordshire-terrier/"
+    },
+    {
+      "DogBreed": "American Leopard Hound",
+      "LifeSpan":  "10-14 years",
+      "Speciality": "intelligent / sociable / energetic",
+      "Origin": "United States",
+      "MoreInfoAt": "https://www.akc.org/dog-breeds/american-leopard-hound/"
+    },
+    {
+      "DogBreed": "Anatolian Shepherd Dog",
+      "LifeSpan":  "11-13 years",
+      "Speciality": "reserved / independent / loyal",
+      "Origin": "Turkey",
+      "MoreInfoAt": "https://www.akc.org/dog-breeds/anatolian-shepherd-dog/"
     }
 ]
