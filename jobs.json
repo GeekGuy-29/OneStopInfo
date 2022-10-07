@@ -98,6 +98,16 @@
         "id": "20",
         "JobRole": "Digital manager",
         "JobDescription": "A Digital Strategy Manager is an executive position. This position is based on a unique set of technological knowledge which directs all departments for digital industry growth."
+    },
+    {
+        "id" : "21",
+        "JobeRole" : "Product Manager",
+        "JobDescription"  : "A product manager is the person who identifies the customer need and the larger business objectives that a product or feature will fulfill, articulates what success looks like for a product, and rallies a team to turn that vision into a reality."
+    },
+    {
+        "id" : "22",
+        "JobRole" : "Network Engineer",
+        "JObDescription" : "Network engineers are IT specialists who design, build and configure new network infrastructure and maintain and upgrade existing network systems";
     }
-
+     
 ]
