@@ -1,0 +1,9 @@
+[
+  {
+        "DogBreed": "Labrador",
+        "LifeSpan":  "10-12 years",
+        "Speciality": "Sniffing",
+        "Origin": "Newfoundland",
+        "MoreInfoAt": "https://www.akc.org/dog-breeds/labrador-retriever/"
+    },
+]
