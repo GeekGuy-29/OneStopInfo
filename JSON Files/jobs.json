@@ -173,22 +173,22 @@
         "id": "35",
         "JobRole": "Network Administrator",
         "JobDescription": "Network administrators oversee the operation and maintenance of hardware, software, computer infrastructures, and complete information systems."
-    }
+    },
     {
         "id": "36",
         "JobRole": "Electrial engineer ",
         "JobDescription": "Electrical engineers design, develop, test, and supervise the manufacture of electrical equipment, such as electric motors, radar and navigation systems, communications systems, or power generation equipment"
-    }
+    },
     {
         "id": "37",
         "JobRole": "Electronics engineer",
         "JobDescription": "Electronics engineers design and develop electronic equipment, including broadcast and communications systems, such as portable music players and Global Positioning System (GPS) devices."
-    }
+    },
     {
         "id": "38",
         "JobRole": "Telecom equipment engineer",
         "JobDescription": "A telecommunication engineer is responsible for designing and overseeing the installation of telecommunications equipment and facilities, such as complex electronic switching systems, and other plain old telephone service facilities, optical fiber cabling, IP networks, and microwave transmission systems.."
-    }
+    },
     {
         "id": "39",
         "JobRole": "Central office engineer",
