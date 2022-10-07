@@ -34,13 +34,13 @@ Ya ya I know, you are very confused, buddy! I got you <3
 
 ## How to contribute
 
- Check [CONTRIBUTING.md](https://github.com/GeekGuy-29/OneStopInfo/blob/main/Repo%20Doc%20Files/CONTRIBUTING.md) for details regarding contribution.
+ Check [CONTRIBUTING.md](/CONTRIBUTING.md) for details regarding contribution.
 
 ## Rules
 - Please be respectful to everyone.
 - Please don't spam.
 - Please don't make any changes to the README.md file.
-- Please read [CODE_OF_CONDUCT.md](https://github.com/GeekGuy-29/OneStopInfo/blob/main/Repo%20Doc%20Files/CODE_OF_CONDUCT.md).
+- Please read [CODE_OF_CONDUCT.md](/CODE_OF_CONDUCT.md).
 
 ###               **HACKTOBERFEST 2022**
 
