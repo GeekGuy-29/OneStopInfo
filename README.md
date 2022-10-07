@@ -1,7 +1,11 @@
 # OneStopInfo
 
  Alright! welcome to open-source mate.
-
+ 
+ ## Wanna get involved?
+ 
+ Get involved in the commmunity via [Discussions](https://github.com/GeekGuy-29/OneStopInfo/discussions) 💖
+ 
 ## What is this project here
 
  Firstly, the purpose of this project is typically of building a website, more like a library, a One-Stop-Info place wherein people can find anything according to their requirement.
