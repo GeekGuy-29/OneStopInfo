@@ -263,5 +263,46 @@
         "emoji-id": "55",   
         "emoji":  "🧑‍🎓",
         "emoji-name": "Student"
-    }
+    },
+    {
+        "emoji-id": "56",   
+        "emoji":  "😂",
+        "emoji-name": "Laughing Face"
+    },
+    {
+        "emoji-id": "57",   
+        "emoji":  "🤩 ",
+        "emoji-name": "Star-Struck"
+    },
+    {
+        "emoji-id": "58",   
+        "emoji":  "🙄",
+        "emoji-name": "Face with Rolling Eyes"
+    },
+    {
+        "emoji-id": "59",   
+        "emoji":  "🐎",
+        "emoji-name": "Horse"
+    },
+    {
+        "emoji-id": "60",   
+        "emoji":  "🦙",
+        "emoji-name": "Llama"
+    },
+    {
+        "emoji-id": "61",   
+        "emoji":  "😏",
+        "emoji-name": "Smirking Face"
+    },
+    {
+        "emoji-id": "62",   
+        "emoji":  "😬",
+        "emoji-name": "Grimacing Face"
+    },
+     {
+        "emoji-id": "63",   
+        "emoji":  "😴",
+        "emoji-name": "Sleeping Face"
+    },
+     
 ]
