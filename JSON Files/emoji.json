@@ -264,4 +264,9 @@
         "emoji":  "🧑‍🎓",
         "emoji-name": "Student"
     }
+    {
+        "emoji-id": "56",   
+        "emoji":  "😂",
+        "emoji-name": "Laughing Face"
+    }
 ]
