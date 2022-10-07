@@ -98,6 +98,26 @@
         "id": "20",
         "JobRole": "Digital manager",
         "JobDescription": "A Digital Strategy Manager is an executive position. This position is based on a unique set of technological knowledge which directs all departments for digital industry growth."
+    },
+    {
+        "id": "21",
+        "JobRole": "Security Engineer",
+        "JobDescription": " A Security Engineer, or Security Administrator, handles the digital security for their company or clients."
+    },
+    {
+        "id": "22",
+        "JobRole": "Technical Support Engineer",
+        "JobDescription": " A  Technical Support Engineer, also known as an IT support engineer, helps in resolving technical issues within different components of computer systems, such as software, hardware, and other network-related IT related problems."
+    },
+    {
+        "id": "23",
+        "JobRole": "Area Engineer",
+        "JobDescription": " A few of the main duties of a area engineer are conducting research, installing new technologies, monitoring activities at the assigned area, and doing quality control work. They also have to create reports of the area to ensure that all requirements are being met."
+    },
+    {
+        "id": "24",
+        "JobRole": "Site Engineer",
+        "JobDescription": " The site engineer's responsibilities include managing different parts of construction projects, supervising crew members, preparing estimates for time and material costs, completing quality assurance, observing health and safety standards, and compiling reports for different stakeholders."
     }
 
 ]
