@@ -261,13 +261,13 @@
         "Link" : "https://www.edureka.co/blog/cheatsheets/java-oop-cheat-sheet/"
     },
     {
-      "id" : "49"
-      "Domain" : "Docker CheatSheet"
+      "id" : "49",
+      "Domain" : "Docker CheatSheet",
       "Link"   : "https://www.docker.com/wp-content/uploads/2022/03/docker-cheat-sheet.pdf"
     },
    {
-       "id" : "50"
-       "Domain" : "Kubernetes CheatSheet"
+       "id" : "50",
+       "Domain" : "Kubernetes CheatSheet",
        "Link" : "https://kubernetes.io/docs/reference/kubectl/cheatsheet/"
    }
 ]
