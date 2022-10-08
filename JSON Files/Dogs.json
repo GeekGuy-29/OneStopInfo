@@ -209,4 +209,18 @@
       "Origin": "Czechoslovakia",
       "MoreInfoAt": "https://en.wikipedia.org/wiki/Cesky_Terrier"
     }
+    {
+      "DogBreed": "Finnish Spitz",
+      "LifeSpan":  "12-14 years",
+      "Speciality": "smart / fearless / active",
+      "Origin": "Finland",
+      "MoreInfoAt": "https://en.wikipedia.org/wiki/Finnish_Spitz"
+    }
+    {
+      "DogBreed": "Lagotto Romagnolo",
+      "LifeSpan":  "15-17 years",
+      "Speciality": "Keen / Loyal / Active / Loving / Companionable / Trainable",
+      "Origin": "Italy",
+      "MoreInfoAt": "https://en.wikipedia.org/wiki/Lagotto_Romagnolo"
+    }
 ]
