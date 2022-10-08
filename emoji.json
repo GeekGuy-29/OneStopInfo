@@ -213,5 +213,35 @@
         "emoji-id": "45",   
         "emoji":  "🙀",
         "emoji-name": "Weary Cat"
+    },
+    {
+     "emoji-id" : "46",
+     "emoji": "🤣",
+     "emoji-name" : "rolling on the floor laughing"
+    },
+    {
+    "emoji-id":"47",
+    "emoji": "😍",
+    "emoji-name": "smiling with heart-eyes"
+    },
+    {
+    "emoji-id":"48",
+    "emoji": "😁",
+    "emoji-name": "beaming face with smiling eyes"
+    },
+    {
+    "emoji-id":"49",
+    "emoji": "😂",
+    "emoji-name": "face with tears of joy"
+    },
+     {
+    "emoji-id":"49",
+    "emoji": "😂",
+    "emoji-name": "face with tears of joy"
+    },
+    {
+    "emoji-id":"50",
+    "emoji" : "😉",
+     "emoji-name" : "winking face"
     }
 ]
