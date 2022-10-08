@@ -188,4 +188,27 @@
       "Origin": "Germany",
       "MoreInfoAt": "https://www.pedigree.com.ph/dog-breeds/german-shepherd-dog"
     }
+
+   {
+      "DogBreed": "Alaskan Malamute",
+      "LifeSpan":  "10-12 years",
+      "Speciality": "highly intelligent / independent / willful",
+      "Origin": "Alaska",
+      "MoreInfoAt": "https://www.akc.org/dog-breeds/alaskan-malamute/"
+    }
+  {
+      "DogBreed": "Golden Retriever",
+      "LifeSpan":  "10-12 years",
+      "Speciality": "Trustworthy / Confident / Reliable",
+      "Origin": "Scotland",
+      "MoreInfoAt": "https://en.wikipedia.org/wiki/Golden_Retriever"
+    }
+{
+      "DogBreed": "Poodle",
+      "LifeSpan":  "12-15 years",
+      "Speciality": "Faithful / Instinctual / Active",
+      "Origin": "Scotland",
+      "MoreInfoAt": "https://en.wikipedia.org/wiki/Poodle"
+    }
+
 ]
