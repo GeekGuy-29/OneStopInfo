@@ -401,4 +401,9 @@
         "Domain" : "Google Cloud CheatSheet",
         "Link" : "https://googlecloudcheatsheet.withgoogle.com/"
     }
+    {
+        "id"  : "77",
+        "Domain" : "C#",
+        "Link" : "https://simplecheatsheet.com/tag/c-cheat-sheet-1/"
+    }
 ]
