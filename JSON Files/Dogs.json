@@ -188,4 +188,25 @@
       "Origin": "Germany",
       "MoreInfoAt": "https://www.pedigree.com.ph/dog-breeds/german-shepherd-dog"
     }
+    {
+      "DogBreed": "Beauceron",
+      "LifeSpan":  "10-12 years",
+      "Speciality": "versatile / dominant / intelligent / freindly",
+      "Origin": "Central France",
+      "MoreInfoAt": "https://en.wikipedia.org/wiki/Beauceron"
+    }
+     {
+      "DogBreed": "Canaan",
+      "LifeSpan":  "12-15 years",
+      "Speciality": "Vigilant / Cautious /  Devoted /  Intelligent /  Alert",
+      "Origin": "Middle East",
+      "MoreInfoAt": "https://en.wikipedia.org/wiki/Canaan_Dog"
+    }
+    {
+      "DogBreed": "Cesky Terrier",
+      "LifeSpan":  "12-15 years",
+      "Speciality": "strong / hardworking / active / calm",
+      "Origin": "Czechoslovakia",
+      "MoreInfoAt": "https://en.wikipedia.org/wiki/Cesky_Terrier"
+    }
 ]
