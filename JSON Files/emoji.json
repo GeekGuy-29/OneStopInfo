@@ -299,10 +299,24 @@
         "emoji":  "😬",
         "emoji-name": "Grimacing Face"
     },
-     {
+    {
         "emoji-id": "63",   
         "emoji":  "😴",
         "emoji-name": "Sleeping Face"
     },
-     
+    {
+        "emoji-id": "64",   
+        "emoji":  "😘",
+        "emoji-name": "Face Blowing a Kiss"
+    },
+    {
+        "emoji-id": "65",   
+        "emoji":  "🤑",
+        "emoji-name": "Money-Mouth Face"
+    },
+    {
+        "emoji-id": "66",   
+        "emoji":  "🏦",
+        "emoji-name": "Bank"
+    },
 ]
