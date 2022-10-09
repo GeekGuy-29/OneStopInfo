@@ -1,0 +1,221 @@
+[
+    {   "id":"1",
+        "country": "Afghanistan",
+        "independence": 1919
+    },
+    {   "id":"2",
+        "country": "Albania",
+        "independence": 1912
+    },
+    {   "id":"3",
+        "country": "Algeria",
+        "independence": 1962
+    },
+    {   "id":"4",
+        "country": "American Samoa",
+        "independence": null
+    },
+    {   "id":"5",
+        "country": "Andorra",
+        "independence": 1278
+    },
+    {   "id":"6",
+        "country": "Angola",
+        "independence": 1975
+    },
+    {   "id":"7",
+        "country": "Anguilla",
+        "independence": null
+    },
+    {   "id":"8",
+        "country": "Antarctica",
+        "independence": null
+    },
+    {   "id":"9",
+        "country": "Antigua and Barbuda",
+        "independence": 1981
+    },
+    {   "id":"10",
+        "country": "Argentina",
+        "independence": 1816
+    },
+    {   "id":"11",
+        "country": "Armenia",
+        "independence": 1991
+    },
+    {   "id":"12",
+        "country": "Aruba",
+        "independence": null
+    },
+    {   "id":"13",
+        "country": "Australia",
+        "independence": 1901
+    },
+    {   "id":"14",
+        "country": "Austria",
+        "independence": 1918
+    },
+    {   "id":"15",
+        "country": "Azerbaijan",
+        "independence": 1991
+    },
+    {   "id":"16",
+        "country": "Bahamas",
+        "independence": 1973
+    },
+    {   "id":"17",
+        "country": "Bahrain",
+        "independence": 1971
+    },
+    {   "id":"18",
+        "country": "Bangladesh",
+        "independence": 1971
+    },
+    {   "id":"19",
+        "country": "Barbados",
+        "independence": 1966
+    },
+    {   "id":"20",
+        "country": "Belarus",
+        "independence": 1991
+    },
+    {   "id":"21",
+        "country": "Belgium",
+        "independence": 1830
+    },
+    {   "id":"22",
+        "country": "Belize",
+        "independence": 1981
+    },
+    {   "id":"23",
+        "country": "Benin",
+        "independence": 1960
+    },
+    {   "id":"24",
+        "country": "Bermuda",
+        "independence": null
+    },
+    {   "id":"25",
+        "country": "Bhutan",
+        "independence": 1910
+    },
+    {   "id":"26",
+        "country": "Bolivia",
+        "independence": 1825
+    },
+    {   "id":"27",
+        "country": "Bosnia and Herzegovina",
+        "independence": 1992
+    },
+    {   "id":"28",
+        "country": "Botswana",
+        "independence": 1966
+    },
+    {   "id":"29",
+        "country": "Bouvet Island",
+        "independence": null
+    },
+    {   "id":"30",
+        "country": "Brazil",
+        "independence": 1822
+    },
+    {   "id":"31",
+        "country": "British Indian Ocean Territory",
+        "independence": null
+    },
+    {   "id":"32",
+        "country": "Brunei",
+        "independence": 1984
+    },
+    {   "id":"33",
+        "country": "Bulgaria",
+        "independence": 1908
+    },
+    {   "id":"34",
+        "country": "Burkina Faso",
+        "independence": 1960
+    },
+    {   "id":"35",
+        "country": "Burundi",
+        "independence": 1962
+    },
+    {   "id":"36",
+        "country": "Cambodia",
+        "independence": 1953
+    },
+    {   "id":"37",
+        "country": "Cameroon",
+        "independence": 1960
+    },
+    {   "id":"",
+        "country": "Canada",
+        "independence": 1867
+    },
+    {   "id":"38",
+        "country": "Cape Verde",
+        "independence": 1975
+    },
+    {   "id":"39",
+        "country": "Cayman Islands",
+        "independence": null
+    },
+    {   "id":"40",
+        "country": "Central African Republic",
+        "independence": 1960
+    },
+    {   "id":"41",
+        "country": "Chad",
+        "independence": 1960
+    },
+    {   "id":"42",
+        "country": "Chile",
+        "independence": 1810
+    },
+    {   "id":"43",
+        "country": "China",
+        "independence": -1523
+    },
+    {   "id":"44",
+        "country": "Christmas Island",
+        "independence": null
+    },
+    {   "id":"45",
+        "country": "Cocos (Keeling) Islands",
+        "independence": null
+    },
+    {   "id":"46",
+        "country": "Colombia",
+        "independence": 1810
+    },
+    {   "id":"47",
+        "country": "Comoros",
+        "independence": 1975
+    },
+    {   "id":"48",
+        "country": "Congo",
+        "independence": 1960
+    },
+    {   "id":"49",
+        "country": "Cook Islands",
+        "independence": null
+    },
+    {   "id":"50",
+        "country": "Costa Rica",
+        "independence": 1821
+    },
+    {   "id":"51",
+        "country": "Croatia",
+        "independence": 1991
+    },
+    {   "id":"52",
+        "country": "Cuba",
+        "independence": 1902
+    },
+    {   "id":"53",
+        "country": "Cyprus",
+        "independence": 1960
+    },
+    {   "id":"54",
+        "country": "Czech Republic",
+        "independence": 1993
+    }
