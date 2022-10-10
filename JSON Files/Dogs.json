@@ -223,4 +223,19 @@
       "Origin": "Italy",
       "MoreInfoAt": "https://en.wikipedia.org/wiki/Lagotto_Romagnolo"
     }
+    {
+      "DogBreed": "Doberdor",
+      "LifeSpan":  "15-17 years",
+      "Speciality": "Keen / Loyal / Active / Loving / Companionable / Trainable",
+      "Origin": "Germany",
+      "MoreInfoAt": "https://dogtime.com/dog-breeds/doberdor#/slide/1"
+    }
+    {
+      "DogBreed": "Dorgi",
+      "LifeSpan":  "15 years",
+      "Speciality": "loyal / courageous / devoted/unique look",
+      "Origin": "Germany",
+      "MoreInfoAt": "https://dogtime.com/dog-breeds/dorgi#/slide/1"
+    }
+
 ]
