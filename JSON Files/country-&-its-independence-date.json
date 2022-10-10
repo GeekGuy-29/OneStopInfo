@@ -218,4 +218,66 @@
     {   "id":"54",
         "country": "Czech Republic",
         "independence": 1993
-    }
+    },
+    {   "id":"55",
+        "country": "Denmark",
+        "independence": 1945
+    },
+    {   "id":"56",
+        "country": "Djibouti ",
+        "independence": 1977
+    },
+    {   "id":"57",
+        "country": "Dominica",
+        "independence": 1978
+
+    },
+    {   "id":"58",
+        "country": "Dominican Republic",
+        "independence": 1844
+    },
+    {   "id":"59",
+        "country": "Ecuador",
+        "independence": 1820
+    },
+    {   "id":"60",
+        "country": "Egypt",
+        "independence": 1953
+    },
+    {   "id":"61",
+        "country": "El Salvador",
+        "independence": 1821
+    },
+    {   "id":"62",
+        "country": "Equatorial Guinea",
+        "independence": 1968
+    },
+    {   "id":"63",
+        "country": " Eritrean",
+        "independence": 1993
+    },
+    {   "id":"64",
+        "country": "Estonian",
+        "independence": 1991
+    },
+    {   "id":"65",
+        "country": "Eswatini (formerly Swaziland)",
+        "independence": 1968
+    },
+    {   "id":"66",
+        "country": "Ethiopia",
+        "independence": 1896
+    },
+    {   "id":"67",
+        "country": "Fiji",
+        "independence": 1970
+    },
+   {   "id":"68",
+        "country": "Finland ",
+        "independence": 1917
+    },
+     {   "id":"69",
+        "country": "France",
+        "independence": 1789
+    },
+     
