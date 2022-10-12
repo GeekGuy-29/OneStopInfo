@@ -1,0 +1,310 @@
+{
+  "poses": [
+{
+  "english_name": "Chair",
+  "sanskrit_name": "Utkatasana",
+  "image_url": "https://www.ekhartyoga.com/media/image/articles/Chair-pose-Utkatasana-EkhartYoga.jpg",
+  "yoga_description": "Chair Pose improves balance and can build cardiovascular health and resilience. It primarily strengthens your core, thighs, and ankles.",
+  "yoga_instruction": [
+    "Stand in Tadasana. Inhale and raise your arms overhead so that your biceps are just slightly in front of your ears. Either keep the arms parallel, palms facing inward, or join the palms.",
+    "Exhale and bend your knees so that your thighs are as parallel to the floor as possible. Your knees will project out over your feet, and your trunk will lean slightly forward over your thighs until your front torso forms approximately a right angle with the tops of your thighs.",
+    "Keep your inner thighs parallel to each other and press the heads of the thigh bones down toward your heels.",
+    "Firm your shoulder blades against your back. Direct your tailbone down toward the floor and in toward your pubis to keep your lower back long.",
+    "Stay for 30 seconds to a minute. To come out of this pose, straighten your knees with an inhalation, lifting strongly through your arms. Exhale and release your arms to your sides into Tadasana."
+  ],
+  "file_name": "classifier.tflite",
+  "labels": ["chair",
+    "cobra",
+    "dog",
+    "tree",
+    "warrior"],
+  "correct_label": "chair"
+},
+    {
+      "english_name": "Tree",
+      "sanskrit_name": "Vrksasana",
+      "image_url": "https://www.ekhartyoga.com/media/images/articles/content/Tree-pose-Vrksasana-Ekhart-Yoga.jpg",
+      "yoga_description": "This standing posture can help improve your balance, as well as your postural and body awareness. In addition to its physical benefits, this pose can assist in calming and relaxing the mindâ€”relieving anxious thoughts and feelings.",
+      "yoga_instruction": [
+        "Stand in Tadasana. Spread your toes, press your feet into the mat and firm your leg muscles. Raise your front hip points toward your lower ribs to gently lift in your lower belly.",
+        "Inhale deeply, lifting your chest, and exhale as you draw your shoulder blades down your back. Look straight ahead at a steady gazing spot.",
+        "Place your hands on your hips and raise your right foot high onto your left thigh or shin. Avoid making contact with the knee.",
+        "Press your right foot and left leg into each other.",
+        "Check that your pelvis is level and squared to the front.",
+        "When you feel steady, place your hands into Anjali Mudra at the heart or stretch your arms overhead like branches reaching into the sun.",
+        "Hold for several breaths, then step back into Mountain Pose and repeat on the other side."
+      ],
+      "file_name": "classifier.tflite",
+      "labels": ["chair",
+        "cobra",
+        "dog",
+        "tree",
+        "warrior"],
+      "correct_label": "tree"
+    },{
+      "english_name": "Cobra",
+      "sanskrit_name": "Bhujangasana",
+      "image_url": "https://www.ekhartyoga.com/media/images/articles/content/Cobra-pose-Bhujangasana-Esther-Ekhart.jpg",
+      "yoga_description": "Cobra Pose can boost energy,  fight fatigue, and build confidence. It improves posture and counteracts the effects of prolonged sitting and computer work.",
+      "yoga_instruction": [
+        "Begin on your belly with your feet hip-distance apart and your hands beside your ribs.",
+        "Extend your big toes straight back and press down with all ten toenails to activate your quadriceps. Rotate your inner thighs toward the ceiling to broaden the lower back.",
+        "Pressing down lightly with your hands, start to lift your head and chest, rolling your shoulders back and down.",
+        "Keep the back of your neck long and focus on lifting your sternum instead of lifting your chin.",
+        "Straighten your arms while keeping your shoulders remaining away from your ears. Keep at least a slight bend in your elbows.",
+        "To exit the pose, release back to your mat."
+      ],
+      "file_name": "classifier.tflite",
+      "labels": ["chair",
+        "cobra",
+        "dog",
+        "tree",
+        "warrior"],
+      "correct_label": "cobra"
+    },
+    {
+      "english_name": "Warrior",
+      "sanskrit_name": "Virabhadrasana",
+      "image_url": "https://www.ekhartyoga.com/media/images/articles/content/Warrior-1-Pose-Virabhadrasana-1-Ekhart-Yoga.jpg",
+      "yoga_description": "Warrior pose stretches your chest, lungs, shoulders, neck, belly and groin. It also strengthens your shoulders, arms, and back muscles, as well as your calves, ankles, and thighs.",
+      "yoga_instruction": [
+        "From Adho Mukha Svanasana (Downward-Facing Dog Pose), step your right foot forward so your toes are in line with your fingertips, and shift your foot slightly to the right.",
+        "Bend your front knee 90 degrees. Your thigh should be approximately parallel to the floor, your knee stacked over your ankle, and  your right outer hip pinned back.",
+        "Pivot your left heel to the floor so your foot forms a 45-degree angle to the side of the mat.  Align your left heel with your right heel, or place the feet slightly wider for more stability.",
+        "Press your left thighbone back so your left knee is straight.",
+        "As you inhale, raise your torso and reach up with the arms, hands shoulder-distance apart and palms facing each other. Allow your shoulder blades to open out and up, away from your spine and toward your outer armpits. Rotate your biceps back, and firm your triceps into your midline. You may bring your palms together and look up at your thumbs.",
+        "Keep pressing your left femur back while releasing your tailbone toward the floor. Draw your lower belly back and up away from your right thigh.",
+        "Hold for 5–10 breaths. Release your hands to the floor, step back to Downward-Facing Dog, and repeat on the other side."
+      ],
+      "file_name": "classifier.tflite",
+      "labels": ["chair",
+        "cobra",
+        "dog",
+        "tree",
+        "warrior"],
+      "correct_label": "warrior"
+    },
+
+    {
+      "english_name": "Boat",
+      "sanskrit_name": "Navasana",
+      "image_url": "https://www.ekhartyoga.com/media/image/articles/Boat-pose-Navasana-Ekhart-Yoga.jpg",
+      "yoga_description": "Boat Pose builds focus and body awareness. It can boost energy and fight fatigue, and help build confidence and empowerment. Boat Pose also improves posture and counteracts the effects of prolonged sitting and doing computer work by strengthening your core and thighs.",
+      "yoga_instruction": [
+        "Sit on the floor with your legs straight in front of you. Press your hands on the floor a little behind your hips.",
+        "Lift through the top of the sternum and lean back slightly, making sure your back doesnâ€™t round. Balance your weight on the tripod of your sitting bones and tailbone.",
+        "Exhale and bend your knees, then lift your thighs so they are angled about 45 degrees above the floor, with your knees still bent.",
+        "If possible, slowly straighten your knees, raising the tips of your toes slightly above the level of your eyes. If that is not possible, keep your knees bent, your shins parallel to the floor.",
+        "Keeping your heart open and your spine long, draw your shoulders back and extend both arms forward alongside the legs, parallel to the floor, with your palms facing in. Try to keep your lower belly flat and firm, but not hard and thick.",
+        "Point your toes or flex through your heels, and breathe. Try to stay in the pose for 10 to 20 seconds, slowly increasing your time to a minute."
+      ],
+      "file_name": "",
+      "labels": [],
+      "correct_label": ""
+    },
+    {
+      "english_name": "Cat",
+      "sanskrit_name": "Marjaryasana",
+      "image_url": "https://www.ekhartyoga.com/media/image/articles/Cat-pose-Marjaryasana-EkhartYoga.jpg",
+      "yoga_description": "Cat Pose warms up your spine, shoulders, and hips. It improves posture, and counteracts the effects of sitting and computer work.",
+      "yoga_instruction": [
+        "Begin Tabletop with your hips directly over your knees. Your hands should be shoulder-distance apart and slightly ahead of your shoulders. The wrist creases should be parallel to the front of the mat.",
+        "Press down firmly through your hands.",
+        "Exhale and round your spine toward the ceiling. Drop the crown of your head and your tailbone. Draw your lower belly in and up.",
+        "Push the floor away with your hands to broaden across your shoulder blades.",
+        "Keep the hips over your knees and your arms straight to keep the movement in your spine.",
+        "To release the pose, return to a neutral spine."
+      ],
+      "file_name": "",
+      "labels":[],
+      "correct_label": ""
+    },
+    {
+      "english_name": "Crow",
+      "sanskrit_name": "Bakasana",
+      "image_url": "https://www.ekhartyoga.com/media/images/articles/content/Crow-Pose-Bakasana-Ekhart-Yoga.jpg",
+      "yoga_description": "Crane Pose improve focus, and stretch your buttocks (glutes), your back, and the palm sides of your wrists (wrist flexors). These poses also strengthen your core, upper back, chest, front of your hips (hip flexors), back of your thighs (hamstrings), arms, shoulders, forearms, and back of your wrists (wrist extensors).",
+      "yoga_instruction": [
+        "Begin in a squat with your knees wide apart. Your feet may be together or apart.",
+        "Place your hands on the floor 6â€“8 inches in front of your feet and shoulder-distance apart. If your shoulders are tight, your hands can be a little wider.",
+        "Come onto the balls of your feet and lift your hips high. Bring your knees toward your upper arms.",
+        "Tilt your torso forward so that your shoulders fit between your knees.",
+        "Firmly press your knees to your upper arms. You can balance them on your triceps for Crow or tuck them closer to your armpits for Crane.",
+        "Continue to reach your chest forward until your elbows stack over your wrists and you feel your center of gravity shift.",
+        "Lift your heels toward your buttocks. Your knees can either grip your outer shoulders or balance on your triceps.",
+        "For Crane, press your arms as straight as possible while bringing your feet and buttocks toward each other.",
+        "Hold for 5â€“10 breaths, then either release your feet to the floor."
+      ],
+      "file_name": "",
+      "labels": [],
+      "correct_label": ""
+    },
+    {
+      "english_name": "Butterfly",
+      "sanskrit_name": "Baddha Konasana",
+      "image_url": "https://www.ekhartyoga.com/media/image/articles/Bound-angle-pose-Baddha-Konasana-Ekhart-Yoga.jpg",
+      "yoga_description": "Increases hip mobility and stretches the inner thighs. Grounding and calming",
+      "yoga_instruction": [
+        "From a seated position, bring the soles of your feet together, close to your pelvis, allowing your knees to fall out to the sides.",
+        "Ground your sitting bones and lengthen your spine",
+        "Hold onto the outsides of your feet and press the soles of your feet towards each other.",
+        "If your body allows it, fold forward from the hips, keeping your spine long and your collar bones spread.",
+        "Stay for 5 to 10 breathes",
+        "To come out of the pose, sit up straight again, lift your knees and straighten your legs"
+      ],
+      "file_name": "",
+      "labels":[],
+      "correct_label": ""
+    },
+    {
+      "english_name": "Camel",
+      "sanskrit_name": "Ustrasana",
+      "image_url": "https://www.ekhartyoga.com/media/image/articles/Camel-pose-Ustrasana-Esther-Ekhart.jpg",
+      "yoga_description": "Camel Pose can help build confidence and empowerment. It improves your posture and counteracts the effects of prolonged sitting, slouching, and kyphosis (abnormal curvature of the spine). It may also help relieve back pain. Camel Pose stretches your abdomen, chest, shoulders, the front of your hips (hip flexors), and the front of your thighs (quadriceps). It also strengthens your back muscles, the back of your thighs (hamstrings), and buttocks (glutes).",
+      "yoga_instruction": [
+        "Come onto your knees, place them hip-width apart, and then tuck your toes.",
+        "Engage your inner thighs, draw your lower belly in and up, and roll your shoulders back ",
+        "On an inhalation, lengthen through both side waists, lift the chest up, ",
+        "With the lower body stable, on an exhale start to come into your backbend keeping the chest lifted and without crunching the neck or lower back",
+        "As you lean back, find your blocks or heels with your hands â€“ or you can do this one side at a time by circling one arm up and behind you",
+        "Keep your inner thighs engaged, firm the shoulder blades into the back and stay for a couple of breaths ",
+        "Use your inhalation to help you come back up, then sit on your heels with a neutral spine for a moment."
+      ],
+      "file_name": "",
+      "labels": [],
+      "correct_label": ""
+    },
+    {
+      "english_name": "Cow",
+      "sanskrit_name": "Bitilasana",
+      "image_url": "https://www.ekhartyoga.com/media/images/articles/content/Cow-Pose-Bitilasana-EkhartYoga.jpg",
+      "yoga_description": "Cow Pose warms up your spine, shoulders, and hips to prepare for a rigorous yoga asana practice. It can be calming, relaxing, and help you manage stress.",
+      "yoga_instruction": [
+        "Begin in Tabletop with your hips directly over your knees and your hands slightly ahead of your shoulders, shoulder-distance apart. Your wrist creases should be parallel to the front of your mat.",
+        "Press down firmly through your hands.",
+        "Inhale and arch your back by lowering your belly, lifting your chin and sternum, and broadening your collarbones.",
+        "Keep the back of your neck long and your core slightly toned to find more movement in the mid and upper back.",
+        "To release the pose, return to a neutral spine."
+      ],
+      "file_name": "",
+      "labels": [],
+      "correct_label": ""
+    },
+    {
+      "english_name": "King Pigeon",
+      "sanskrit_name": "Eka Pada Rajakapotasana",
+      "image_url": "https://www.ekhartyoga.com/media/images/articles/content/Pigeon-pose-Eka-Pada-Rajakapotasana-Ekhart-Yoga.jpg",
+      "yoga_description": "Increases external range of motion of femur in hip socket. Lengthens hip flexors. Prepares body for backbends. Prepares body for seated postures such as Padmasana (Lotus Pose)",
+      "yoga_instruction": [
+        "From all fours, bring your right knee forward towards your right wrist. Depending on your body it may be just behind your wrist or to the outer or the inner edge of it. ",
+        "Experiment with what feels right for you, giving you a stretch on your outer hip without any discomfort in your knee. ",
+        "Your right ankle will be somewhere in front of your left hip. ",
+        "Slide your left leg back and point your toes, your heel is pointing up to the ceiling.",
+        "Scissor your hips together, by drawing your legs in towards each other. Use some support under your right buttock if needed, to keep your hips level.",
+        "As you inhale, come onto your fingertips, lengthen your spine, draw your navel in and open your chest.",
+        "As you exhale, walk your hands forward and lower your upper body towards the floor. You can rest your forearms and forehead on the mat.",
+        "Stay for 5 breaths or longer. ",
+        "On each exhalation, try to release the tension in your right hip.",
+        "To come out of the pose, push back through the hands, lift your hips and move your leg back into all fours. Repeat on the other side."
+      ],
+      "file_name": "",
+      "labels": [],
+      "correct_label": ""
+    },
+    {
+      "english_name": "Pyramid",
+      "sanskrit_name": "Parsvottanasana",
+      "image_url": "https://www.ekhartyoga.com/media/images/articles/content/Intense-side-stretch-pose-Parsvottanasana.jpg",
+      "yoga_description": "Pyramid Pose stretches the spine, shoulders, wrists, hips and hamstrings. It also strengthen the legs and improves posture.",
+      "yoga_instruction": [
+        "Begin in Tadasana (Mountain Pose) at the top of the mat.",
+        "Place your hands on your hips, making sure your hips are squared.",
+        "Step your right foot back 2 to 4 feet. Line up heel to heel with your back foot at approximately a 30- to 45-degree angle.",
+        "Keep your hips facing forward and both sides of your waist elongated by pressing down with your right big toe mound at the same time as you draw your left hip back and in toward your right heel.",
+        "On an inhalation, spread your arms out to the sides. On an exhalation, internally rotate your arms, bend your elbows, and bring your palms together behind your back. If this isnâ€™t feasible, release your hands alongside your feet, on blocks, or on your shin.",
+        "Inhale, lengthen your spine, and engage your quadriceps.",
+        "Exhale, hinge at your hips, and begin to fold forward and toward your front thigh. Reach your sternum away from your navel and keep your collar bones broad to maintain openness in your front body and length in your back body. Release your forehead toward your shin.",
+        "Draw the heads of your upper arms back and up away from the floor as you remain in the pose.",
+        "To exit the pose, inhale and use the strength of your legs to come up. Release your arms and step your feet together, returning to Mountain Pose."
+      ],
+      "file_name": "",
+      "labels": [],
+      "correct_label": ""
+    },
+    {
+      "english_name": "Half-Moon",
+      "sanskrit_name": "Ardha Chandrasana",
+      "image_url": "https://www.ekhartyoga.com/media/images/articles/content/Half-Moon-pose-Ardha-Chandrasana.jpg",
+      "yoga_description": "Half Moon Pose is good for strengthening both legs evenly, teaching coordination, and helping you focus.",
+      "yoga_instruction": [
+        "Start in Utthita Trikonasana (Extended Triangle) with your left foot forward.",
+        "Bring your right hand to your hip and turn your head to look at the floor.",
+        "Bend your front leg and shift your weight into your front foot.",
+        "Reach your front hand a little forward and place it on the mat or a block directly beneath your front shoulder. Press down through your fingers to steady yourself.",
+        "Lift your back leg until your thigh is parallel to the floor. Slowly turn your chest to face the right, twisting your torso and hips. Reach your top hand to the ceiling.",
+        "Either keep your gaze on the floor or slowly bring it to your top hand. Keep a slight bend in your standing leg so you donâ€™t hyperextend your knee.",
+        "Exit the pose the same way you came into it and return to Extended Triangle."
+      ],
+      "file_name": "",
+      "labels": [],
+      "correct_label": ""
+    },
+    {
+      "english_name": "Child's",
+      "sanskrit_name": "Balasana",
+      "image_url": "https://www.ekhartyoga.com/media/images/articles/content/Childs-pose-Balasana-Ekhart-Yoga.jpg",
+      "yoga_description": "Child's pose gently stretches your spine, thighs, hips, and ankles. It can increase blood circulation to your head.",
+      "yoga_instruction": [
+        "Sit on your heels, knees spread mat distance apart and bring your head towards the floor",
+        "Your arms can be either stretched out to the front, by your side or hands underneath your forehead",
+        "Breathe into your lower back",
+        "Stay for anywhere between 30 seconds and several minutes in this resting pose",
+        "To come out, exhale and roll up vertebra by vertebra, or come back to sitting with a straight spine."
+      ],
+      "file_name": "",
+      "labels": [],
+      "correct_label": ""
+    },
+    {
+      "english_name": "Eagle",
+      "sanskrit_name": "Garudasana",
+      "image_url": "https://www.ekhartyoga.com/media/image/articles/Eagle-pose-Garudasana-EkhartYoga.jpg",
+      "yoga_description": "Eagle Pose improves balance and focus, and postural and body awareness. It stretches around your shoulders, upper back, and thighs, as it strengthens your core, thighs, legs, and ankles.",
+      "yoga_instruction": [
+        "Stand in Tadasana (Mountain Pose). your feet slightly apart, below your sitting bones.",
+        "Place your hands on your hips, pressing your pelvis down with your hands to ground yourself and feel a sense of connection with the earth. As you ground down, feel a sense of corresponding lift up through the crown of your head and a lengthening of your spine.",
+        "Bend both knees, lift your right foot, and slowly wrap your right thigh over your left. Then curl your right foot behind your left calf, and hook it there. (You should not feel strain in either knee, and your left knee should be facing forward.)",
+        "Reach both arms out in front of you and wrap your left arm over your right, crossing the left elbow over the right upper arm. Slide your right hand toward your face, cross your forearms, and press your palms together, raising your elbows to shoulder height.",
+        "Stay here for five deep breaths, feeling the stretch in your upper back. Return to Tadasana, and repeat on the other side."
+      ],
+      "file_name": "",
+      "labels": [],
+      "correct_label": ""
+    },
+    {
+      "english_name": "Crescent",
+      "sanskrit_name": "Anjaneyasana",
+      "image_url": "https://www.ekhartyoga.com/media/images/articles/content/Crescent-Pose-High-Lunge-Anjaneyasana-Ekhart-Yoga.jpg",
+      "yoga_description": "Strengthens ankles, knees and legs. Roots thighbones to help alleviate backpain. Strengthens abdomen, buttocks and spine. Opens chest and shoulders.",
+      "yoga_instruction": [
+        "Start in Downward Facing Dog Pose.",
+        "Inhale raise the right leg behind you and then exhale as you step the right foot forward between your hands.",
+        "Check that the right knee is aligned above the right ankle.",
+        "Ground through the feet, pull your lower abs in as you exhale, then inhale sweeping your arms out and up, palms facing towards each other",
+        "Bend your back knee a little, lengthen your tailbone down towards the floor, then extend through the back leg, opening and stretching the sole of the foot.",
+        "Open your chest and draw your front ribs down into your torso.",
+        "Stay for five breaths.",
+        "Bring your hands onto the floor by your right foot as you exhale.",
+        "Step your right foot back into a Downward Facing Dog pose.",
+        "Repeat with the left foot coming forward."
+      ],
+      "file_name": "classifier.tflite",
+      "labels": ["chair",
+        "cobra",
+        "dog",
+        "tree",
+        "warrior"],
+      "correct_label": "dog"
+    }
+  ]
+}
