@@ -400,10 +400,26 @@
         "id"  : "76",
         "Domain" : "Google Cloud CheatSheet",
         "Link" : "https://googlecloudcheatsheet.withgoogle.com/"
-    }
+    },
     {
         "id"  : "77",
         "Domain" : "C#",
         "Link" : "https://simplecheatsheet.com/tag/c-cheat-sheet-1/"
-    }
+    },
+    {
+        "id"  : "78",
+        "Domain" : "Solidity",
+        "Link" : "https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.jpg"
+    },
+    {
+        "id"  : "79",
+        "Domain" : "Markdown",
+        "Link" : "https://www.markdownguide.org/cheat-sheet/"
+    },
+    {
+        "id"  : "80",
+        "Domain" : "Markdown",
+        "Link" : "http://www.cheat-sheets.org/saved-copy/RubyCheat.pdf"
+    },
+    
 ]
