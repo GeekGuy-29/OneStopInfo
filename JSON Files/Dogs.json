@@ -306,5 +306,40 @@
       "Speciality": "dignified / alert / devoted",
       "Origin": "Japan",
       "MoreInfoAt": "https://www.akc.org/dog-breeds/hokkaido/"
-    }
+    },
+    {
+      "Dog breed" : "Pug", 
+      "Life span" : "12-15 years",
+      "Speciality" : "royalty / lap dogs",
+      "Origin" : "China",
+      "MoreInfoAt" : "https://dogtime.com/dog-breeds/pug"
+    },
+    {
+      "Dog breed" : "Inadian Spitz",
+      "Life span" : "10-12 years",
+      "Speciality" : "intelligent / playful / alert / vocal" ,
+      "Origin" : "India",
+      "MoreInfoAt" : "https://pawsindia.com/blogs/news/everything-you-need-to-know-about-indian-spitz-dog-origin-history-grooming-and-care"
+    },
+    {
+     "Dog breed" : "Kumaon Mastiff",
+     "Life span" : "12-15 years",
+     "Speciality" : "protective/ alert / loyal", 
+     "Origin" : "India",
+     "MoreInfoAt" : "https://www.dogbreedinfo.com/p/pandikona.htm"
+   },
+   {
+     "Dog breed" : "Pandikona",
+     "Life span" : "10-15 years",
+     "Speciality" : "territorial / fearless / brave",
+     "Origin" : "India",
+     "MoreInfoAt" : " https://www.dogbreedinfo.com/p/pandikona.htm"
+   },
+   {
+     "Dog breed" : "Tahltan Bear Dog", 
+     "Life span" : "10-12 years",
+     "Speciality" :"hunters/ feisty/ excelled",
+     "Origin" : "Canada",
+     "MoreInfoAt" : "https://www.thecanadianencyclopedia.ca/en/article/tahltan-bear-dog"
+   }
 ]
