@@ -182,6 +182,13 @@
       "MoreInfoAt": "https://www.pedigree.com.ph/dog-breeds/chinese-crested-dog"
     },
     {
+      "DogBreed": "Chippiparai",
+      "LifeSpan": "13-14 years",
+      "Speciality": "energetic / affectionate / dignified",
+      "Origin": "India",
+      "MoreInfoAt": "https://en.wikipedia.org/wiki/Chippiparai"
+    },
+    {
       "DogBreed": "German Shepherd",
       "LifeSpan":  "9-13 years",
       "Speciality": "intelligent / stubborn / protective",
@@ -299,6 +306,20 @@
       "Speciality": "friendly / patient / dependable",
       "Origin": "Germany",
       "MoreInfoAt": "https://www.akc.org/dog-breeds/great-dane/"
+    },
+    {
+      "DogBreed": "Gull Terrier",
+      "LifeSpan": "8-15 years",
+      "Speciality": "cautious / protective / loyal",
+      "Origin": "India",
+      "MoreInfoAt": "https://en.wikipedia.org/wiki/Gull_Terrier"
+    },
+    {
+      "DogBreed": "Gull Dong",
+      "LifeSpan": "10-14 years",
+      "Speciality": "loyal / powerful / strong-willed",
+      "Origin": "India",
+      "MoreInfoAt": "https://en.wikipedia.org/wiki/Gull_Dong"
     },
     {
       "DogBreed": "Hokkaido",
