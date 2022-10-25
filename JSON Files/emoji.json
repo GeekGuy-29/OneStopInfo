@@ -319,4 +319,24 @@
         "emoji":  "🏦",
         "emoji-name": "Bank"
     },
+    {
+        "emoji-id": "67",   
+        "emoji":  "🙌",
+        "emoji-name": "Raising Hands"
+    },
+    {
+        "emoji-id": "68",   
+        "emoji":  "✌️",
+        "emoji-name": "Victory Hand"
+    },
+    {
+        "emoji-id": "69",   
+        "emoji":  "🎖️",
+        "emoji-name": "Military Medal"
+    },
+    {
+        "emoji-id": "70",   
+        "emoji":  "🫡",
+        "emoji-name": "Saluting Face"
+    },
 ]
